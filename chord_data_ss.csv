@@ -1,0 +1,1662 @@
+Instrument,File,Time,Chord,Channel
+Violin,Violin-1.wav,0,E:min,Channel 1
+Violin,Violin-1.wav,1,F#:min,Channel 1
+Violin,Violin-1.wav,2,A:maj,Channel 1
+Violin,Violin-1.wav,3,D:maj,Channel 1
+Violin,Violin-1.wav,4,F#:maj,Channel 1
+Violin,Violin-1.wav,5,B:min,Channel 1
+Violin,Violin-1.wav,6,C#:maj,Channel 1
+Violin,Violin-1.wav,7,G#:min,Channel 1
+Violin,Violin-1.wav,8,G#:min,Channel 1
+Violin,Violin-1.wav,9,G#:min,Channel 1
+Violin,Violin-1.wav,10,G#:min,Channel 1
+Violin,Violin-1.wav,0,E:min,Channel 2
+Violin,Violin-1.wav,1,F#:min,Channel 2
+Violin,Violin-1.wav,2,A:maj,Channel 2
+Violin,Violin-1.wav,3,D:maj,Channel 2
+Violin,Violin-1.wav,4,F#:maj,Channel 2
+Violin,Violin-1.wav,5,B:min,Channel 2
+Violin,Violin-1.wav,6,C#:maj,Channel 2
+Violin,Violin-1.wav,7,G#:min,Channel 2
+Violin,Violin-1.wav,8,G#:min,Channel 2
+Violin,Violin-1.wav,9,G#:min,Channel 2
+Violin,Violin-1.wav,10,G#:min,Channel 2
+Violin,Violin-2.wav,0,G:maj,Channel 1
+Violin,Violin-2.wav,1,G:maj,Channel 1
+Violin,Violin-2.wav,2,G:maj,Channel 1
+Violin,Violin-2.wav,3,G:maj,Channel 1
+Violin,Violin-2.wav,4,A:min,Channel 1
+Violin,Violin-2.wav,5,A:min,Channel 1
+Violin,Violin-2.wav,6,A:min,Channel 1
+Violin,Violin-2.wav,7,G:min,Channel 1
+Violin,Violin-2.wav,8,G:min,Channel 1
+Violin,Violin-2.wav,9,D:maj,Channel 1
+Violin,Violin-2.wav,10,D:maj,Channel 1
+Violin,Violin-2.wav,0,G:maj,Channel 2
+Violin,Violin-2.wav,1,G:maj,Channel 2
+Violin,Violin-2.wav,2,G:maj,Channel 2
+Violin,Violin-2.wav,3,G:maj,Channel 2
+Violin,Violin-2.wav,4,F#:min,Channel 2
+Violin,Violin-2.wav,5,A:min,Channel 2
+Violin,Violin-2.wav,6,A:min,Channel 2
+Violin,Violin-2.wav,7,G:min,Channel 2
+Violin,Violin-2.wav,8,G:min,Channel 2
+Violin,Violin-2.wav,9,D:maj,Channel 2
+Violin,Violin-2.wav,10,D:maj,Channel 2
+Violin,Violin-3.wav,0,A:maj,Channel 1
+Violin,Violin-3.wav,1,G:maj,Channel 1
+Violin,Violin-3.wav,2,E:min,Channel 1
+Violin,Violin-3.wav,3,B:maj,Channel 1
+Violin,Violin-3.wav,4,A:min,Channel 1
+Violin,Violin-3.wav,5,B:min,Channel 1
+Violin,Violin-3.wav,6,G:maj,Channel 1
+Violin,Violin-3.wav,7,G:maj,Channel 1
+Violin,Violin-3.wav,8,E:min,Channel 1
+Violin,Violin-3.wav,9,E:min,Channel 1
+Violin,Violin-3.wav,10,C#:maj,Channel 1
+Violin,Violin-3.wav,0,A:maj,Channel 2
+Violin,Violin-3.wav,1,G:maj,Channel 2
+Violin,Violin-3.wav,2,E:min,Channel 2
+Violin,Violin-3.wav,3,B:maj,Channel 2
+Violin,Violin-3.wav,4,A:min,Channel 2
+Violin,Violin-3.wav,5,G:maj,Channel 2
+Violin,Violin-3.wav,6,G:maj,Channel 2
+Violin,Violin-3.wav,7,G:maj,Channel 2
+Violin,Violin-3.wav,8,E:min,Channel 2
+Violin,Violin-3.wav,9,E:min,Channel 2
+Violin,Violin-3.wav,10,C#:maj,Channel 2
+Violin,Violin-4.wav,0,C:min,Channel 1
+Violin,Violin-4.wav,1,G:maj,Channel 1
+Violin,Violin-4.wav,2,D:maj,Channel 1
+Violin,Violin-4.wav,3,G:maj,Channel 1
+Violin,Violin-4.wav,4,A:min,Channel 1
+Violin,Violin-4.wav,5,F:maj,Channel 1
+Violin,Violin-4.wav,6,G:maj,Channel 1
+Violin,Violin-4.wav,7,G:maj,Channel 1
+Violin,Violin-4.wav,8,B:min,Channel 1
+Violin,Violin-4.wav,9,B:maj,Channel 1
+Violin,Violin-4.wav,10,G:maj,Channel 1
+Violin,Violin-4.wav,0,G#:maj,Channel 2
+Violin,Violin-4.wav,1,G#:maj,Channel 2
+Violin,Violin-4.wav,2,D:min,Channel 2
+Violin,Violin-4.wav,3,A:min,Channel 2
+Violin,Violin-4.wav,4,A:min,Channel 2
+Violin,Violin-4.wav,5,C:maj,Channel 2
+Violin,Violin-4.wav,6,C:maj,Channel 2
+Violin,Violin-4.wav,7,A:min,Channel 2
+Violin,Violin-4.wav,8,B:min,Channel 2
+Violin,Violin-4.wav,9,B:maj,Channel 2
+Violin,Violin-4.wav,10,G:maj,Channel 2
+Violin,Violin-5.wav,0,D:min,Channel 1
+Violin,Violin-5.wav,1,D:min,Channel 1
+Violin,Violin-5.wav,2,D:min,Channel 1
+Violin,Violin-5.wav,3,E:min,Channel 1
+Violin,Violin-5.wav,4,A:maj,Channel 1
+Violin,Violin-5.wav,5,F:maj,Channel 1
+Violin,Violin-5.wav,6,F:maj,Channel 1
+Violin,Violin-5.wav,7,F:maj,Channel 1
+Violin,Violin-5.wav,8,D:min,Channel 1
+Violin,Violin-5.wav,9,D:min,Channel 1
+Violin,Violin-5.wav,10,D:min,Channel 1
+Violin,Violin-5.wav,0,D:min,Channel 2
+Violin,Violin-5.wav,1,D:min,Channel 2
+Violin,Violin-5.wav,2,D:min,Channel 2
+Violin,Violin-5.wav,3,E:min,Channel 2
+Violin,Violin-5.wav,4,A:maj,Channel 2
+Violin,Violin-5.wav,5,A:maj,Channel 2
+Violin,Violin-5.wav,6,D:min,Channel 2
+Violin,Violin-5.wav,7,F:maj,Channel 2
+Violin,Violin-5.wav,8,D:min,Channel 2
+Violin,Violin-5.wav,9,F:maj,Channel 2
+Violin,Violin-5.wav,10,F:maj,Channel 2
+Violin,Violin-6.wav,0,D:maj,Channel 1
+Violin,Violin-6.wav,1,D:maj,Channel 1
+Violin,Violin-6.wav,2,D:maj,Channel 1
+Violin,Violin-6.wav,3,D:maj,Channel 1
+Violin,Violin-6.wav,4,D:maj,Channel 1
+Violin,Violin-6.wav,5,A:min,Channel 1
+Violin,Violin-6.wav,6,E:min,Channel 1
+Violin,Violin-6.wav,7,C#:min,Channel 1
+Violin,Violin-6.wav,8,G:maj,Channel 1
+Violin,Violin-6.wav,9,A#:min,Channel 1
+Violin,Violin-6.wav,10,A:maj,Channel 1
+Violin,Violin-6.wav,0,D:maj,Channel 2
+Violin,Violin-6.wav,1,D:maj,Channel 2
+Violin,Violin-6.wav,2,D:maj,Channel 2
+Violin,Violin-6.wav,3,G:min,Channel 2
+Violin,Violin-6.wav,4,G:min,Channel 2
+Violin,Violin-6.wav,5,D:maj,Channel 2
+Violin,Violin-6.wav,6,E:min,Channel 2
+Violin,Violin-6.wav,7,C#:min,Channel 2
+Violin,Violin-6.wav,8,G:maj,Channel 2
+Violin,Violin-6.wav,9,A#:min,Channel 2
+Violin,Violin-6.wav,10,A:maj,Channel 2
+Violin,Violin-7.wav,0,G:min,Channel 1
+Violin,Violin-7.wav,1,C:maj,Channel 1
+Violin,Violin-7.wav,2,C:maj,Channel 1
+Violin,Violin-7.wav,3,F:maj,Channel 1
+Violin,Violin-7.wav,4,D:min,Channel 1
+Violin,Violin-7.wav,5,A:min,Channel 1
+Violin,Violin-7.wav,6,F:maj,Channel 1
+Violin,Violin-7.wav,7,F:maj,Channel 1
+Violin,Violin-7.wav,8,D:min,Channel 1
+Violin,Violin-7.wav,9,F:maj,Channel 1
+Violin,Violin-7.wav,10,F:maj,Channel 1
+Violin,Violin-7.wav,0,F:maj,Channel 2
+Violin,Violin-7.wav,1,C:maj,Channel 2
+Violin,Violin-7.wav,2,C:maj,Channel 2
+Violin,Violin-7.wav,3,C:maj,Channel 2
+Violin,Violin-7.wav,4,A:min,Channel 2
+Violin,Violin-7.wav,5,A:min,Channel 2
+Violin,Violin-7.wav,6,F:maj,Channel 2
+Violin,Violin-7.wav,7,F:maj,Channel 2
+Violin,Violin-7.wav,8,F:maj,Channel 2
+Violin,Violin-7.wav,9,F:maj,Channel 2
+Violin,Violin-7.wav,10,F:maj,Channel 2
+Violin,Violin-8.wav,0,F:maj,Channel 1
+Violin,Violin-8.wav,1,F:maj,Channel 1
+Violin,Violin-8.wav,2,A:maj,Channel 1
+Violin,Violin-8.wav,3,A:maj,Channel 1
+Violin,Violin-8.wav,4,A:maj,Channel 1
+Violin,Violin-8.wav,5,A:maj,Channel 1
+Violin,Violin-8.wav,6,A:maj,Channel 1
+Violin,Violin-8.wav,7,D:min,Channel 1
+Violin,Violin-8.wav,8,D:min,Channel 1
+Violin,Violin-8.wav,9,D:min,Channel 1
+Violin,Violin-8.wav,10,C:maj,Channel 1
+Violin,Violin-8.wav,0,F:maj,Channel 2
+Violin,Violin-8.wav,1,F:maj,Channel 2
+Violin,Violin-8.wav,2,A#:maj,Channel 2
+Violin,Violin-8.wav,3,A#:maj,Channel 2
+Violin,Violin-8.wav,4,A:maj,Channel 2
+Violin,Violin-8.wav,5,A:maj,Channel 2
+Violin,Violin-8.wav,6,A:maj,Channel 2
+Violin,Violin-8.wav,7,D:min,Channel 2
+Violin,Violin-8.wav,8,D:min,Channel 2
+Violin,Violin-8.wav,9,D:min,Channel 2
+Violin,Violin-8.wav,10,C:maj,Channel 2
+Violin,Violin-9.wav,0,E:maj,Channel 1
+Violin,Violin-9.wav,1,D:maj,Channel 1
+Violin,Violin-9.wav,2,A:min,Channel 1
+Violin,Violin-9.wav,3,A:min,Channel 1
+Violin,Violin-9.wav,4,A:maj,Channel 1
+Violin,Violin-9.wav,5,B:maj,Channel 1
+Violin,Violin-9.wav,6,B:maj,Channel 1
+Violin,Violin-9.wav,7,B:maj,Channel 1
+Violin,Violin-9.wav,8,C:maj,Channel 1
+Violin,Violin-9.wav,9,A:maj,Channel 1
+Violin,Violin-9.wav,10,D:min,Channel 1
+Violin,Violin-9.wav,0,B:min,Channel 2
+Violin,Violin-9.wav,1,D:maj,Channel 2
+Violin,Violin-9.wav,2,A:min,Channel 2
+Violin,Violin-9.wav,3,A:min,Channel 2
+Violin,Violin-9.wav,4,A:maj,Channel 2
+Violin,Violin-9.wav,5,B:maj,Channel 2
+Violin,Violin-9.wav,6,B:maj,Channel 2
+Violin,Violin-9.wav,7,B:maj,Channel 2
+Violin,Violin-9.wav,8,C:maj,Channel 2
+Violin,Violin-9.wav,9,A:maj,Channel 2
+Violin,Violin-9.wav,10,D:min,Channel 2
+Violin,Violin-10.wav,0,G:maj,Channel 1
+Violin,Violin-10.wav,1,G:maj,Channel 1
+Violin,Violin-10.wav,2,A#:maj,Channel 1
+Violin,Violin-10.wav,3,C:min,Channel 1
+Violin,Violin-10.wav,4,C:min,Channel 1
+Violin,Violin-10.wav,5,C:min,Channel 1
+Violin,Violin-10.wav,6,C:min,Channel 1
+Violin,Violin-10.wav,7,C:min,Channel 1
+Violin,Violin-10.wav,8,C:min,Channel 1
+Violin,Violin-10.wav,9,C:min,Channel 1
+Violin,Violin-10.wav,10,F:maj,Channel 1
+Violin,Violin-10.wav,0,G:maj,Channel 2
+Violin,Violin-10.wav,1,G:maj,Channel 2
+Violin,Violin-10.wav,2,C:min,Channel 2
+Violin,Violin-10.wav,3,C:min,Channel 2
+Violin,Violin-10.wav,4,C:min,Channel 2
+Violin,Violin-10.wav,5,C:min,Channel 2
+Violin,Violin-10.wav,6,C:min,Channel 2
+Violin,Violin-10.wav,7,C:min,Channel 2
+Violin,Violin-10.wav,8,C:min,Channel 2
+Violin,Violin-10.wav,9,C:min,Channel 2
+Violin,Violin-10.wav,10,F:maj,Channel 2
+Violin,Violin-11.wav,0,C:min,Channel 1
+Violin,Violin-11.wav,1,C:min,Channel 1
+Violin,Violin-11.wav,2,C:min,Channel 1
+Violin,Violin-11.wav,3,C:min,Channel 1
+Violin,Violin-11.wav,4,C:min,Channel 1
+Violin,Violin-11.wav,5,C:min,Channel 1
+Violin,Violin-11.wav,6,C:min,Channel 1
+Violin,Violin-11.wav,7,G:min,Channel 1
+Violin,Violin-11.wav,8,G:min,Channel 1
+Violin,Violin-11.wav,9,G:min,Channel 1
+Violin,Violin-11.wav,10,G:min,Channel 1
+Violin,Violin-11.wav,0,C:min,Channel 2
+Violin,Violin-11.wav,1,C:min,Channel 2
+Violin,Violin-11.wav,2,C:min,Channel 2
+Violin,Violin-11.wav,3,C:min,Channel 2
+Violin,Violin-11.wav,4,C:min,Channel 2
+Violin,Violin-11.wav,5,C:min,Channel 2
+Violin,Violin-11.wav,6,C:min,Channel 2
+Violin,Violin-11.wav,7,G:min,Channel 2
+Violin,Violin-11.wav,8,G:min,Channel 2
+Violin,Violin-11.wav,9,G:min,Channel 2
+Violin,Violin-11.wav,10,G:min,Channel 2
+Double Bass,Double Bass-1.wav,0,D#:maj,Channel 1
+Double Bass,Double Bass-1.wav,1,D#:maj,Channel 1
+Double Bass,Double Bass-1.wav,2,A:min,Channel 1
+Double Bass,Double Bass-1.wav,3,A:min,Channel 1
+Double Bass,Double Bass-1.wav,4,A:min,Channel 1
+Double Bass,Double Bass-1.wav,5,E:maj,Channel 1
+Double Bass,Double Bass-1.wav,6,C:maj,Channel 1
+Double Bass,Double Bass-1.wav,7,E:maj,Channel 1
+Double Bass,Double Bass-1.wav,8,F:min,Channel 1
+Double Bass,Double Bass-1.wav,9,G:min,Channel 1
+Double Bass,Double Bass-1.wav,10,G:min,Channel 1
+Double Bass,Double Bass-1.wav,0,D#:maj,Channel 2
+Double Bass,Double Bass-1.wav,1,D#:maj,Channel 2
+Double Bass,Double Bass-1.wav,2,A:min,Channel 2
+Double Bass,Double Bass-1.wav,3,A:min,Channel 2
+Double Bass,Double Bass-1.wav,4,A:min,Channel 2
+Double Bass,Double Bass-1.wav,5,E:maj,Channel 2
+Double Bass,Double Bass-1.wav,6,C:maj,Channel 2
+Double Bass,Double Bass-1.wav,7,E:maj,Channel 2
+Double Bass,Double Bass-1.wav,8,F:min,Channel 2
+Double Bass,Double Bass-1.wav,9,G:min,Channel 2
+Double Bass,Double Bass-1.wav,10,G:min,Channel 2
+Double Bass,Double Bass-2.wav,0,G:maj,Channel 1
+Double Bass,Double Bass-2.wav,1,G:maj,Channel 1
+Double Bass,Double Bass-2.wav,2,G:maj,Channel 1
+Double Bass,Double Bass-2.wav,3,C:maj,Channel 1
+Double Bass,Double Bass-2.wav,4,C:maj,Channel 1
+Double Bass,Double Bass-2.wav,5,C:maj,Channel 1
+Double Bass,Double Bass-2.wav,6,C:maj,Channel 1
+Double Bass,Double Bass-2.wav,7,B:min,Channel 1
+Double Bass,Double Bass-2.wav,8,B:min,Channel 1
+Double Bass,Double Bass-2.wav,9,G:maj,Channel 1
+Double Bass,Double Bass-2.wav,10,G:maj,Channel 1
+Double Bass,Double Bass-2.wav,0,G:maj,Channel 2
+Double Bass,Double Bass-2.wav,1,G:maj,Channel 2
+Double Bass,Double Bass-2.wav,2,G:maj,Channel 2
+Double Bass,Double Bass-2.wav,3,C:maj,Channel 2
+Double Bass,Double Bass-2.wav,4,C:maj,Channel 2
+Double Bass,Double Bass-2.wav,5,C:maj,Channel 2
+Double Bass,Double Bass-2.wav,6,C:maj,Channel 2
+Double Bass,Double Bass-2.wav,7,F#:maj,Channel 2
+Double Bass,Double Bass-2.wav,8,F#:maj,Channel 2
+Double Bass,Double Bass-2.wav,9,G:maj,Channel 2
+Double Bass,Double Bass-2.wav,10,G:maj,Channel 2
+Double Bass,Double Bass-3.wav,0,A:maj,Channel 1
+Double Bass,Double Bass-3.wav,1,A:maj,Channel 1
+Double Bass,Double Bass-3.wav,2,E:min,Channel 1
+Double Bass,Double Bass-3.wav,3,E:min,Channel 1
+Double Bass,Double Bass-3.wav,4,E:min,Channel 1
+Double Bass,Double Bass-3.wav,5,E:min,Channel 1
+Double Bass,Double Bass-3.wav,6,C:maj,Channel 1
+Double Bass,Double Bass-3.wav,7,B:maj,Channel 1
+Double Bass,Double Bass-3.wav,8,D#:maj,Channel 1
+Double Bass,Double Bass-3.wav,9,A:min,Channel 1
+Double Bass,Double Bass-3.wav,10,E:maj,Channel 1
+Double Bass,Double Bass-3.wav,0,A:maj,Channel 2
+Double Bass,Double Bass-3.wav,1,A:maj,Channel 2
+Double Bass,Double Bass-3.wav,2,E:min,Channel 2
+Double Bass,Double Bass-3.wav,3,E:min,Channel 2
+Double Bass,Double Bass-3.wav,4,E:min,Channel 2
+Double Bass,Double Bass-3.wav,5,E:min,Channel 2
+Double Bass,Double Bass-3.wav,6,C:maj,Channel 2
+Double Bass,Double Bass-3.wav,7,B:maj,Channel 2
+Double Bass,Double Bass-3.wav,8,D#:maj,Channel 2
+Double Bass,Double Bass-3.wav,9,A:min,Channel 2
+Double Bass,Double Bass-3.wav,10,E:maj,Channel 2
+Double Bass,Double Bass-4.wav,0,E:min,Channel 1
+Double Bass,Double Bass-4.wav,1,E:min,Channel 1
+Double Bass,Double Bass-4.wav,2,D#:maj,Channel 1
+Double Bass,Double Bass-4.wav,3,D#:maj,Channel 1
+Double Bass,Double Bass-4.wav,4,D#:maj,Channel 1
+Double Bass,Double Bass-4.wav,5,D#:maj,Channel 1
+Double Bass,Double Bass-4.wav,6,F:maj,Channel 1
+Double Bass,Double Bass-4.wav,7,B:min,Channel 1
+Double Bass,Double Bass-4.wav,8,B:min,Channel 1
+Double Bass,Double Bass-4.wav,9,F:maj,Channel 1
+Double Bass,Double Bass-4.wav,10,G:min,Channel 1
+Double Bass,Double Bass-4.wav,0,E:min,Channel 2
+Double Bass,Double Bass-4.wav,1,E:min,Channel 2
+Double Bass,Double Bass-4.wav,2,D#:maj,Channel 2
+Double Bass,Double Bass-4.wav,3,D#:maj,Channel 2
+Double Bass,Double Bass-4.wav,4,D#:maj,Channel 2
+Double Bass,Double Bass-4.wav,5,D#:maj,Channel 2
+Double Bass,Double Bass-4.wav,6,F:maj,Channel 2
+Double Bass,Double Bass-4.wav,7,B:min,Channel 2
+Double Bass,Double Bass-4.wav,8,B:min,Channel 2
+Double Bass,Double Bass-4.wav,9,F:maj,Channel 2
+Double Bass,Double Bass-4.wav,10,G:min,Channel 2
+Double Bass,Double Bass-5.wav,0,C#:maj,Channel 1
+Double Bass,Double Bass-5.wav,1,B:min,Channel 1
+Double Bass,Double Bass-5.wav,2,E:min,Channel 1
+Double Bass,Double Bass-5.wav,3,F:min,Channel 1
+Double Bass,Double Bass-5.wav,4,G:min,Channel 1
+Double Bass,Double Bass-5.wav,5,E:maj,Channel 1
+Double Bass,Double Bass-5.wav,6,E:maj,Channel 1
+Double Bass,Double Bass-5.wav,7,E:maj,Channel 1
+Double Bass,Double Bass-5.wav,8,B:min,Channel 1
+Double Bass,Double Bass-5.wav,9,B:maj,Channel 1
+Double Bass,Double Bass-5.wav,10,A#:maj,Channel 1
+Double Bass,Double Bass-5.wav,0,C#:maj,Channel 2
+Double Bass,Double Bass-5.wav,1,B:min,Channel 2
+Double Bass,Double Bass-5.wav,2,E:min,Channel 2
+Double Bass,Double Bass-5.wav,3,F:min,Channel 2
+Double Bass,Double Bass-5.wav,4,G:min,Channel 2
+Double Bass,Double Bass-5.wav,5,E:maj,Channel 2
+Double Bass,Double Bass-5.wav,6,E:maj,Channel 2
+Double Bass,Double Bass-5.wav,7,E:maj,Channel 2
+Double Bass,Double Bass-5.wav,8,B:min,Channel 2
+Double Bass,Double Bass-5.wav,9,B:maj,Channel 2
+Double Bass,Double Bass-5.wav,10,A#:maj,Channel 2
+Double Bass,Double Bass-6.wav,0,A#:min,Channel 1
+Double Bass,Double Bass-6.wav,1,A#:min,Channel 1
+Double Bass,Double Bass-6.wav,2,A#:maj,Channel 1
+Double Bass,Double Bass-6.wav,3,A#:maj,Channel 1
+Double Bass,Double Bass-6.wav,4,C:min,Channel 1
+Double Bass,Double Bass-6.wav,5,C:min,Channel 1
+Double Bass,Double Bass-6.wav,6,C:min,Channel 1
+Double Bass,Double Bass-6.wav,7,D:maj,Channel 1
+Double Bass,Double Bass-6.wav,8,G#:maj,Channel 1
+Double Bass,Double Bass-6.wav,9,A#:maj,Channel 1
+Double Bass,Double Bass-6.wav,10,A#:maj,Channel 1
+Double Bass,Double Bass-6.wav,0,A#:min,Channel 2
+Double Bass,Double Bass-6.wav,1,A#:min,Channel 2
+Double Bass,Double Bass-6.wav,2,A#:maj,Channel 2
+Double Bass,Double Bass-6.wav,3,A#:maj,Channel 2
+Double Bass,Double Bass-6.wav,4,C:min,Channel 2
+Double Bass,Double Bass-6.wav,5,C:min,Channel 2
+Double Bass,Double Bass-6.wav,6,C:min,Channel 2
+Double Bass,Double Bass-6.wav,7,D:maj,Channel 2
+Double Bass,Double Bass-6.wav,8,G#:maj,Channel 2
+Double Bass,Double Bass-6.wav,9,A#:maj,Channel 2
+Double Bass,Double Bass-6.wav,10,A#:maj,Channel 2
+Double Bass,Double Bass-7.wav,0,C#:min,Channel 1
+Double Bass,Double Bass-7.wav,1,C#:min,Channel 1
+Double Bass,Double Bass-7.wav,2,F#:min,Channel 1
+Double Bass,Double Bass-7.wav,3,G:min,Channel 1
+Double Bass,Double Bass-7.wav,4,G:min,Channel 1
+Double Bass,Double Bass-7.wav,5,G:min,Channel 1
+Double Bass,Double Bass-7.wav,6,G:min,Channel 1
+Double Bass,Double Bass-7.wav,7,C#:min,Channel 1
+Double Bass,Double Bass-7.wav,8,G:min,Channel 1
+Double Bass,Double Bass-7.wav,9,G:min,Channel 1
+Double Bass,Double Bass-7.wav,10,D:min,Channel 1
+Double Bass,Double Bass-7.wav,0,A:maj,Channel 2
+Double Bass,Double Bass-7.wav,1,A:maj,Channel 2
+Double Bass,Double Bass-7.wav,2,F#:min,Channel 2
+Double Bass,Double Bass-7.wav,3,G:min,Channel 2
+Double Bass,Double Bass-7.wav,4,G:min,Channel 2
+Double Bass,Double Bass-7.wav,5,G:min,Channel 2
+Double Bass,Double Bass-7.wav,6,G:min,Channel 2
+Double Bass,Double Bass-7.wav,7,C#:min,Channel 2
+Double Bass,Double Bass-7.wav,8,G:maj,Channel 2
+Double Bass,Double Bass-7.wav,9,A#:maj,Channel 2
+Double Bass,Double Bass-7.wav,10,A#:maj,Channel 2
+Double Bass,Double Bass-8.wav,0,E:maj,Channel 1
+Double Bass,Double Bass-8.wav,1,E:maj,Channel 1
+Double Bass,Double Bass-8.wav,2,E:maj,Channel 1
+Double Bass,Double Bass-8.wav,3,E:maj,Channel 1
+Double Bass,Double Bass-8.wav,4,G#:maj,Channel 1
+Double Bass,Double Bass-8.wav,5,E:maj,Channel 1
+Double Bass,Double Bass-8.wav,6,E:maj,Channel 1
+Double Bass,Double Bass-8.wav,7,E:maj,Channel 1
+Double Bass,Double Bass-8.wav,8,C#:min,Channel 1
+Double Bass,Double Bass-8.wav,9,D#:maj,Channel 1
+Double Bass,Double Bass-8.wav,10,D#:maj,Channel 1
+Double Bass,Double Bass-8.wav,0,E:maj,Channel 2
+Double Bass,Double Bass-8.wav,1,E:maj,Channel 2
+Double Bass,Double Bass-8.wav,2,E:maj,Channel 2
+Double Bass,Double Bass-8.wav,3,E:maj,Channel 2
+Double Bass,Double Bass-8.wav,4,G#:maj,Channel 2
+Double Bass,Double Bass-8.wav,5,E:maj,Channel 2
+Double Bass,Double Bass-8.wav,6,E:maj,Channel 2
+Double Bass,Double Bass-8.wav,7,E:maj,Channel 2
+Double Bass,Double Bass-8.wav,8,C#:min,Channel 2
+Double Bass,Double Bass-8.wav,9,D#:maj,Channel 2
+Double Bass,Double Bass-8.wav,10,D#:maj,Channel 2
+Double Bass,Double Bass-9.wav,0,D#:maj,Channel 1
+Double Bass,Double Bass-9.wav,1,D#:maj,Channel 1
+Double Bass,Double Bass-9.wav,2,A:min,Channel 1
+Double Bass,Double Bass-9.wav,3,A:min,Channel 1
+Double Bass,Double Bass-9.wav,4,D:maj,Channel 1
+Double Bass,Double Bass-9.wav,5,A:min,Channel 1
+Double Bass,Double Bass-9.wav,6,E:min,Channel 1
+Double Bass,Double Bass-9.wav,7,B:maj,Channel 1
+Double Bass,Double Bass-9.wav,8,A:maj,Channel 1
+Double Bass,Double Bass-9.wav,9,E:maj,Channel 1
+Double Bass,Double Bass-9.wav,10,C:maj,Channel 1
+Double Bass,Double Bass-9.wav,0,D#:maj,Channel 2
+Double Bass,Double Bass-9.wav,1,D#:maj,Channel 2
+Double Bass,Double Bass-9.wav,2,A:min,Channel 2
+Double Bass,Double Bass-9.wav,3,A:min,Channel 2
+Double Bass,Double Bass-9.wav,4,D:maj,Channel 2
+Double Bass,Double Bass-9.wav,5,A:min,Channel 2
+Double Bass,Double Bass-9.wav,6,E:min,Channel 2
+Double Bass,Double Bass-9.wav,7,B:maj,Channel 2
+Double Bass,Double Bass-9.wav,8,A:maj,Channel 2
+Double Bass,Double Bass-9.wav,9,E:maj,Channel 2
+Double Bass,Double Bass-9.wav,10,C:maj,Channel 2
+Double Bass,Double Bass-10.wav,0,F#:maj,Channel 1
+Double Bass,Double Bass-10.wav,1,F#:maj,Channel 1
+Double Bass,Double Bass-10.wav,2,F:maj,Channel 1
+Double Bass,Double Bass-10.wav,3,G:maj,Channel 1
+Double Bass,Double Bass-10.wav,4,G:maj,Channel 1
+Double Bass,Double Bass-10.wav,5,D:min,Channel 1
+Double Bass,Double Bass-10.wav,6,D:min,Channel 1
+Double Bass,Double Bass-10.wav,7,D:min,Channel 1
+Double Bass,Double Bass-10.wav,8,E:min,Channel 1
+Double Bass,Double Bass-10.wav,9,E:min,Channel 1
+Double Bass,Double Bass-10.wav,10,A:min,Channel 1
+Double Bass,Double Bass-10.wav,0,F#:maj,Channel 2
+Double Bass,Double Bass-10.wav,1,F#:maj,Channel 2
+Double Bass,Double Bass-10.wav,2,F:maj,Channel 2
+Double Bass,Double Bass-10.wav,3,G:maj,Channel 2
+Double Bass,Double Bass-10.wav,4,G:maj,Channel 2
+Double Bass,Double Bass-10.wav,5,D:min,Channel 2
+Double Bass,Double Bass-10.wav,6,D:min,Channel 2
+Double Bass,Double Bass-10.wav,7,D:min,Channel 2
+Double Bass,Double Bass-10.wav,8,E:min,Channel 2
+Double Bass,Double Bass-10.wav,9,E:min,Channel 2
+Double Bass,Double Bass-10.wav,10,A:min,Channel 2
+Double Bass,Double Bass-11.wav,0,G:min,Channel 1
+Double Bass,Double Bass-11.wav,1,G:min,Channel 1
+Double Bass,Double Bass-11.wav,2,G:min,Channel 1
+Double Bass,Double Bass-11.wav,3,G:min,Channel 1
+Double Bass,Double Bass-11.wav,4,G:min,Channel 1
+Double Bass,Double Bass-11.wav,5,G#:min,Channel 1
+Double Bass,Double Bass-11.wav,6,E:min,Channel 1
+Double Bass,Double Bass-11.wav,7,E:min,Channel 1
+Double Bass,Double Bass-11.wav,8,E:min,Channel 1
+Double Bass,Double Bass-11.wav,9,E:min,Channel 1
+Double Bass,Double Bass-11.wav,10,G#:maj,Channel 1
+Double Bass,Double Bass-11.wav,0,G:min,Channel 2
+Double Bass,Double Bass-11.wav,1,G:min,Channel 2
+Double Bass,Double Bass-11.wav,2,G:min,Channel 2
+Double Bass,Double Bass-11.wav,3,G:min,Channel 2
+Double Bass,Double Bass-11.wav,4,G:min,Channel 2
+Double Bass,Double Bass-11.wav,5,G#:min,Channel 2
+Double Bass,Double Bass-11.wav,6,E:min,Channel 2
+Double Bass,Double Bass-11.wav,7,E:min,Channel 2
+Double Bass,Double Bass-11.wav,8,E:min,Channel 2
+Double Bass,Double Bass-11.wav,9,E:min,Channel 2
+Double Bass,Double Bass-11.wav,10,G#:maj,Channel 2
+Harp,Harp-1.wav,0,A:min,Channel 1
+Harp,Harp-1.wav,1,D:min,Channel 1
+Harp,Harp-1.wav,2,F:maj,Channel 1
+Harp,Harp-1.wav,3,D:min,Channel 1
+Harp,Harp-1.wav,4,G:maj,Channel 1
+Harp,Harp-1.wav,5,G:maj,Channel 1
+Harp,Harp-1.wav,6,G:maj,Channel 1
+Harp,Harp-1.wav,7,C:maj,Channel 1
+Harp,Harp-1.wav,8,C:maj,Channel 1
+Harp,Harp-1.wav,9,C:maj,Channel 1
+Harp,Harp-1.wav,10,C:maj,Channel 1
+Harp,Harp-1.wav,0,A:min,Channel 2
+Harp,Harp-1.wav,1,D:min,Channel 2
+Harp,Harp-1.wav,2,D:min,Channel 2
+Harp,Harp-1.wav,3,D:min,Channel 2
+Harp,Harp-1.wav,4,G:maj,Channel 2
+Harp,Harp-1.wav,5,G:maj,Channel 2
+Harp,Harp-1.wav,6,G:maj,Channel 2
+Harp,Harp-1.wav,7,C:maj,Channel 2
+Harp,Harp-1.wav,8,C:maj,Channel 2
+Harp,Harp-1.wav,9,C:maj,Channel 2
+Harp,Harp-1.wav,10,C:maj,Channel 2
+Harp,Harp-2.wav,0,D:maj,Channel 1
+Harp,Harp-2.wav,1,D:maj,Channel 1
+Harp,Harp-2.wav,2,C#:maj,Channel 1
+Harp,Harp-2.wav,3,C#:maj,Channel 1
+Harp,Harp-2.wav,4,B:min,Channel 1
+Harp,Harp-2.wav,5,B:min,Channel 1
+Harp,Harp-2.wav,6,F#:min,Channel 1
+Harp,Harp-2.wav,7,F#:min,Channel 1
+Harp,Harp-2.wav,8,G:maj,Channel 1
+Harp,Harp-2.wav,9,G:maj,Channel 1
+Harp,Harp-2.wav,10,E:maj,Channel 1
+Harp,Harp-2.wav,0,D:maj,Channel 2
+Harp,Harp-2.wav,1,D:maj,Channel 2
+Harp,Harp-2.wav,2,C#:maj,Channel 2
+Harp,Harp-2.wav,3,C#:maj,Channel 2
+Harp,Harp-2.wav,4,B:min,Channel 2
+Harp,Harp-2.wav,5,B:min,Channel 2
+Harp,Harp-2.wav,6,F#:min,Channel 2
+Harp,Harp-2.wav,7,F#:min,Channel 2
+Harp,Harp-2.wav,8,G:maj,Channel 2
+Harp,Harp-2.wav,9,G:maj,Channel 2
+Harp,Harp-2.wav,10,E:maj,Channel 2
+Harp,Harp-3.wav,0,D:maj,Channel 1
+Harp,Harp-3.wav,1,D:maj,Channel 1
+Harp,Harp-3.wav,2,B:maj,Channel 1
+Harp,Harp-3.wav,3,B:maj,Channel 1
+Harp,Harp-3.wav,4,B:maj,Channel 1
+Harp,Harp-3.wav,5,F#:min,Channel 1
+Harp,Harp-3.wav,6,E:min,Channel 1
+Harp,Harp-3.wav,7,E:min,Channel 1
+Harp,Harp-3.wav,8,E:min,Channel 1
+Harp,Harp-3.wav,9,E:min,Channel 1
+Harp,Harp-3.wav,10,C#:min,Channel 1
+Harp,Harp-3.wav,0,B:min,Channel 2
+Harp,Harp-3.wav,1,B:min,Channel 2
+Harp,Harp-3.wav,2,B:min,Channel 2
+Harp,Harp-3.wav,3,B:min,Channel 2
+Harp,Harp-3.wav,4,B:min,Channel 2
+Harp,Harp-3.wav,5,F#:min,Channel 2
+Harp,Harp-3.wav,6,E:min,Channel 2
+Harp,Harp-3.wav,7,E:min,Channel 2
+Harp,Harp-3.wav,8,E:min,Channel 2
+Harp,Harp-3.wav,9,C#:min,Channel 2
+Harp,Harp-3.wav,10,C#:min,Channel 2
+Harp,Harp-4.wav,0,F#:maj,Channel 1
+Harp,Harp-4.wav,1,F#:maj,Channel 1
+Harp,Harp-4.wav,2,F#:maj,Channel 1
+Harp,Harp-4.wav,3,B:min,Channel 1
+Harp,Harp-4.wav,4,A#:maj,Channel 1
+Harp,Harp-4.wav,5,A#:maj,Channel 1
+Harp,Harp-4.wav,6,A#:maj,Channel 1
+Harp,Harp-4.wav,7,A#:maj,Channel 1
+Harp,Harp-4.wav,8,A#:maj,Channel 1
+Harp,Harp-4.wav,9,A#:maj,Channel 1
+Harp,Harp-4.wav,10,A#:maj,Channel 1
+Harp,Harp-4.wav,0,F#:maj,Channel 2
+Harp,Harp-4.wav,1,F#:maj,Channel 2
+Harp,Harp-4.wav,2,F#:maj,Channel 2
+Harp,Harp-4.wav,3,B:maj,Channel 2
+Harp,Harp-4.wav,4,F#:maj,Channel 2
+Harp,Harp-4.wav,5,F#:maj,Channel 2
+Harp,Harp-4.wav,6,F#:maj,Channel 2
+Harp,Harp-4.wav,7,A#:maj,Channel 2
+Harp,Harp-4.wav,8,A#:maj,Channel 2
+Harp,Harp-4.wav,9,A#:maj,Channel 2
+Harp,Harp-4.wav,10,A#:maj,Channel 2
+Harp,Harp-5.wav,0,A:maj,Channel 1
+Harp,Harp-5.wav,1,A:maj,Channel 1
+Harp,Harp-5.wav,2,A:maj,Channel 1
+Harp,Harp-5.wav,3,E:min,Channel 1
+Harp,Harp-5.wav,4,E:min,Channel 1
+Harp,Harp-5.wav,5,E:min,Channel 1
+Harp,Harp-5.wav,6,D:min,Channel 1
+Harp,Harp-5.wav,7,D:min,Channel 1
+Harp,Harp-5.wav,8,D:min,Channel 1
+Harp,Harp-5.wav,9,C#:maj,Channel 1
+Harp,Harp-5.wav,10,D:min,Channel 1
+Harp,Harp-5.wav,0,A:maj,Channel 2
+Harp,Harp-5.wav,1,A:maj,Channel 2
+Harp,Harp-5.wav,2,A:maj,Channel 2
+Harp,Harp-5.wav,3,E:min,Channel 2
+Harp,Harp-5.wav,4,E:min,Channel 2
+Harp,Harp-5.wav,5,E:min,Channel 2
+Harp,Harp-5.wav,6,D:min,Channel 2
+Harp,Harp-5.wav,7,D:min,Channel 2
+Harp,Harp-5.wav,8,D:min,Channel 2
+Harp,Harp-5.wav,9,C#:maj,Channel 2
+Harp,Harp-5.wav,10,D:min,Channel 2
+Harp,Harp-6.wav,0,G#:maj,Channel 1
+Harp,Harp-6.wav,1,G#:maj,Channel 1
+Harp,Harp-6.wav,2,F#:maj,Channel 1
+Harp,Harp-6.wav,3,F#:maj,Channel 1
+Harp,Harp-6.wav,4,F#:maj,Channel 1
+Harp,Harp-6.wav,5,F:maj,Channel 1
+Harp,Harp-6.wav,6,F:maj,Channel 1
+Harp,Harp-6.wav,7,F:min,Channel 1
+Harp,Harp-6.wav,8,F:min,Channel 1
+Harp,Harp-6.wav,9,F:min,Channel 1
+Harp,Harp-6.wav,10,A#:min,Channel 1
+Harp,Harp-6.wav,0,G#:maj,Channel 2
+Harp,Harp-6.wav,1,G#:maj,Channel 2
+Harp,Harp-6.wav,2,F#:maj,Channel 2
+Harp,Harp-6.wav,3,F#:maj,Channel 2
+Harp,Harp-6.wav,4,F#:maj,Channel 2
+Harp,Harp-6.wav,5,D:min,Channel 2
+Harp,Harp-6.wav,6,D:min,Channel 2
+Harp,Harp-6.wav,7,C#:maj,Channel 2
+Harp,Harp-6.wav,8,C#:maj,Channel 2
+Harp,Harp-6.wav,9,A#:min,Channel 2
+Harp,Harp-6.wav,10,A#:min,Channel 2
+Harp,Harp-7.wav,0,C:min,Channel 1
+Harp,Harp-7.wav,1,F:maj,Channel 1
+Harp,Harp-7.wav,2,F:maj,Channel 1
+Harp,Harp-7.wav,3,F:maj,Channel 1
+Harp,Harp-7.wav,4,F:maj,Channel 1
+Harp,Harp-7.wav,5,G:min,Channel 1
+Harp,Harp-7.wav,6,D:min,Channel 1
+Harp,Harp-7.wav,7,G:min,Channel 1
+Harp,Harp-7.wav,8,G:min,Channel 1
+Harp,Harp-7.wav,9,G:min,Channel 1
+Harp,Harp-7.wav,10,D:min,Channel 1
+Harp,Harp-7.wav,0,F:maj,Channel 2
+Harp,Harp-7.wav,1,F:maj,Channel 2
+Harp,Harp-7.wav,2,F:maj,Channel 2
+Harp,Harp-7.wav,3,F:maj,Channel 2
+Harp,Harp-7.wav,4,F:maj,Channel 2
+Harp,Harp-7.wav,5,G:min,Channel 2
+Harp,Harp-7.wav,6,D:min,Channel 2
+Harp,Harp-7.wav,7,G:min,Channel 2
+Harp,Harp-7.wav,8,G:min,Channel 2
+Harp,Harp-7.wav,9,G:min,Channel 2
+Harp,Harp-7.wav,10,D:min,Channel 2
+Harp,Harp-8.wav,0,G:maj,Channel 1
+Harp,Harp-8.wav,1,G:maj,Channel 1
+Harp,Harp-8.wav,2,C:maj,Channel 1
+Harp,Harp-8.wav,3,C:maj,Channel 1
+Harp,Harp-8.wav,4,G:maj,Channel 1
+Harp,Harp-8.wav,5,D:min,Channel 1
+Harp,Harp-8.wav,6,C:maj,Channel 1
+Harp,Harp-8.wav,7,C:maj,Channel 1
+Harp,Harp-8.wav,8,C:maj,Channel 1
+Harp,Harp-8.wav,9,C:maj,Channel 1
+Harp,Harp-8.wav,10,C:maj,Channel 1
+Harp,Harp-8.wav,0,G:maj,Channel 2
+Harp,Harp-8.wav,1,G:maj,Channel 2
+Harp,Harp-8.wav,2,C:maj,Channel 2
+Harp,Harp-8.wav,3,C:maj,Channel 2
+Harp,Harp-8.wav,4,G:maj,Channel 2
+Harp,Harp-8.wav,5,D:min,Channel 2
+Harp,Harp-8.wav,6,C:maj,Channel 2
+Harp,Harp-8.wav,7,C:maj,Channel 2
+Harp,Harp-8.wav,8,C:maj,Channel 2
+Harp,Harp-8.wav,9,C:maj,Channel 2
+Harp,Harp-8.wav,10,C:maj,Channel 2
+Harp,Harp-9.wav,0,A#:maj,Channel 1
+Harp,Harp-9.wav,1,B:min,Channel 1
+Harp,Harp-9.wav,2,D:min,Channel 1
+Harp,Harp-9.wav,3,D:min,Channel 1
+Harp,Harp-9.wav,4,F:min,Channel 1
+Harp,Harp-9.wav,5,A#:maj,Channel 1
+Harp,Harp-9.wav,6,D#:maj,Channel 1
+Harp,Harp-9.wav,7,D#:maj,Channel 1
+Harp,Harp-9.wav,8,D#:maj,Channel 1
+Harp,Harp-9.wav,9,D#:maj,Channel 1
+Harp,Harp-9.wav,10,G#:maj,Channel 1
+Harp,Harp-9.wav,0,B:min,Channel 2
+Harp,Harp-9.wav,1,B:min,Channel 2
+Harp,Harp-9.wav,2,F:min,Channel 2
+Harp,Harp-9.wav,3,F:min,Channel 2
+Harp,Harp-9.wav,4,F:min,Channel 2
+Harp,Harp-9.wav,5,A#:maj,Channel 2
+Harp,Harp-9.wav,6,D#:maj,Channel 2
+Harp,Harp-9.wav,7,D#:maj,Channel 2
+Harp,Harp-9.wav,8,D#:maj,Channel 2
+Harp,Harp-9.wav,9,D#:maj,Channel 2
+Harp,Harp-9.wav,10,G#:maj,Channel 2
+Harp,Harp-10.wav,0,E:min,Channel 1
+Harp,Harp-10.wav,1,E:min,Channel 1
+Harp,Harp-10.wav,2,B:min,Channel 1
+Harp,Harp-10.wav,3,C:maj,Channel 1
+Harp,Harp-10.wav,4,E:min,Channel 1
+Harp,Harp-10.wav,5,D:maj,Channel 1
+Harp,Harp-10.wav,6,D:maj,Channel 1
+Harp,Harp-10.wav,7,D:maj,Channel 1
+Harp,Harp-10.wav,8,G:maj,Channel 1
+Harp,Harp-10.wav,9,G:maj,Channel 1
+Harp,Harp-10.wav,10,G:maj,Channel 1
+Harp,Harp-10.wav,0,E:min,Channel 2
+Harp,Harp-10.wav,1,E:min,Channel 2
+Harp,Harp-10.wav,2,B:min,Channel 2
+Harp,Harp-10.wav,3,C:maj,Channel 2
+Harp,Harp-10.wav,4,E:min,Channel 2
+Harp,Harp-10.wav,5,D:maj,Channel 2
+Harp,Harp-10.wav,6,D:maj,Channel 2
+Harp,Harp-10.wav,7,D:maj,Channel 2
+Harp,Harp-10.wav,8,G:maj,Channel 2
+Harp,Harp-10.wav,9,G:maj,Channel 2
+Harp,Harp-10.wav,10,G:maj,Channel 2
+Harp,Harp-11.wav,0,E:min,Channel 1
+Harp,Harp-11.wav,1,E:min,Channel 1
+Harp,Harp-11.wav,2,B:min,Channel 1
+Harp,Harp-11.wav,3,B:min,Channel 1
+Harp,Harp-11.wav,4,B:min,Channel 1
+Harp,Harp-11.wav,5,D:maj,Channel 1
+Harp,Harp-11.wav,6,B:min,Channel 1
+Harp,Harp-11.wav,7,B:min,Channel 1
+Harp,Harp-11.wav,8,C:min,Channel 1
+Harp,Harp-11.wav,9,B:min,Channel 1
+Harp,Harp-11.wav,10,B:min,Channel 1
+Harp,Harp-11.wav,0,E:min,Channel 2
+Harp,Harp-11.wav,1,E:min,Channel 2
+Harp,Harp-11.wav,2,B:min,Channel 2
+Harp,Harp-11.wav,3,B:min,Channel 2
+Harp,Harp-11.wav,4,B:min,Channel 2
+Harp,Harp-11.wav,5,D:maj,Channel 2
+Harp,Harp-11.wav,6,B:min,Channel 2
+Harp,Harp-11.wav,7,B:min,Channel 2
+Harp,Harp-11.wav,8,C:min,Channel 2
+Harp,Harp-11.wav,9,B:min,Channel 2
+Harp,Harp-11.wav,10,B:min,Channel 2
+Cello,Cello-1.wav,0,C:maj,Channel 1
+Cello,Cello-1.wav,1,C:maj,Channel 1
+Cello,Cello-1.wav,2,C:maj,Channel 1
+Cello,Cello-1.wav,3,F:min,Channel 1
+Cello,Cello-1.wav,4,F:min,Channel 1
+Cello,Cello-1.wav,5,F:min,Channel 1
+Cello,Cello-1.wav,6,F:min,Channel 1
+Cello,Cello-1.wav,7,G:maj,Channel 1
+Cello,Cello-1.wav,8,D:min,Channel 1
+Cello,Cello-1.wav,9,D:min,Channel 1
+Cello,Cello-1.wav,10,G:maj,Channel 1
+Cello,Cello-1.wav,0,C:maj,Channel 2
+Cello,Cello-1.wav,1,C:maj,Channel 2
+Cello,Cello-1.wav,2,C:maj,Channel 2
+Cello,Cello-1.wav,3,G#:maj,Channel 2
+Cello,Cello-1.wav,4,G#:maj,Channel 2
+Cello,Cello-1.wav,5,F:min,Channel 2
+Cello,Cello-1.wav,6,F:min,Channel 2
+Cello,Cello-1.wav,7,G:maj,Channel 2
+Cello,Cello-1.wav,8,D:min,Channel 2
+Cello,Cello-1.wav,9,D:min,Channel 2
+Cello,Cello-1.wav,10,G:maj,Channel 2
+Cello,Cello-2.wav,0,F:maj,Channel 1
+Cello,Cello-2.wav,1,F:maj,Channel 1
+Cello,Cello-2.wav,2,F:maj,Channel 1
+Cello,Cello-2.wav,3,F#:maj,Channel 1
+Cello,Cello-2.wav,4,F#:maj,Channel 1
+Cello,Cello-2.wav,5,F#:maj,Channel 1
+Cello,Cello-2.wav,6,A#:min,Channel 1
+Cello,Cello-2.wav,7,D#:min,Channel 1
+Cello,Cello-2.wav,8,D#:min,Channel 1
+Cello,Cello-2.wav,9,F#:maj,Channel 1
+Cello,Cello-2.wav,10,C:maj,Channel 1
+Cello,Cello-2.wav,0,F:maj,Channel 2
+Cello,Cello-2.wav,1,F:maj,Channel 2
+Cello,Cello-2.wav,2,F:maj,Channel 2
+Cello,Cello-2.wav,3,F#:maj,Channel 2
+Cello,Cello-2.wav,4,F#:maj,Channel 2
+Cello,Cello-2.wav,5,F#:maj,Channel 2
+Cello,Cello-2.wav,6,A#:min,Channel 2
+Cello,Cello-2.wav,7,D#:min,Channel 2
+Cello,Cello-2.wav,8,D#:min,Channel 2
+Cello,Cello-2.wav,9,A#:min,Channel 2
+Cello,Cello-2.wav,10,C:maj,Channel 2
+Cello,Cello-3.wav,0,C#:maj,Channel 1
+Cello,Cello-3.wav,1,C#:maj,Channel 1
+Cello,Cello-3.wav,2,A#:min,Channel 1
+Cello,Cello-3.wav,3,B:maj,Channel 1
+Cello,Cello-3.wav,4,B:maj,Channel 1
+Cello,Cello-3.wav,5,A:maj,Channel 1
+Cello,Cello-3.wav,6,A:maj,Channel 1
+Cello,Cello-3.wav,7,G#:maj,Channel 1
+Cello,Cello-3.wav,8,G#:maj,Channel 1
+Cello,Cello-3.wav,9,C#:min,Channel 1
+Cello,Cello-3.wav,10,B:maj,Channel 1
+Cello,Cello-3.wav,0,C#:maj,Channel 2
+Cello,Cello-3.wav,1,C#:maj,Channel 2
+Cello,Cello-3.wav,2,A#:min,Channel 2
+Cello,Cello-3.wav,3,B:maj,Channel 2
+Cello,Cello-3.wav,4,B:maj,Channel 2
+Cello,Cello-3.wav,5,A:maj,Channel 2
+Cello,Cello-3.wav,6,A:maj,Channel 2
+Cello,Cello-3.wav,7,G#:maj,Channel 2
+Cello,Cello-3.wav,8,G#:maj,Channel 2
+Cello,Cello-3.wav,9,G#:maj,Channel 2
+Cello,Cello-3.wav,10,B:maj,Channel 2
+Cello,Cello-4.wav,0,A#:min,Channel 1
+Cello,Cello-4.wav,1,D#:min,Channel 1
+Cello,Cello-4.wav,2,D#:min,Channel 1
+Cello,Cello-4.wav,3,G#:maj,Channel 1
+Cello,Cello-4.wav,4,C#:maj,Channel 1
+Cello,Cello-4.wav,5,C#:maj,Channel 1
+Cello,Cello-4.wav,6,C#:maj,Channel 1
+Cello,Cello-4.wav,7,C#:maj,Channel 1
+Cello,Cello-4.wav,8,A#:min,Channel 1
+Cello,Cello-4.wav,9,D#:min,Channel 1
+Cello,Cello-4.wav,10,A#:min,Channel 1
+Cello,Cello-4.wav,0,A#:min,Channel 2
+Cello,Cello-4.wav,1,A#:min,Channel 2
+Cello,Cello-4.wav,2,F#:maj,Channel 2
+Cello,Cello-4.wav,3,G#:maj,Channel 2
+Cello,Cello-4.wav,4,C#:maj,Channel 2
+Cello,Cello-4.wav,5,G#:maj,Channel 2
+Cello,Cello-4.wav,6,C#:maj,Channel 2
+Cello,Cello-4.wav,7,C#:maj,Channel 2
+Cello,Cello-4.wav,8,A#:min,Channel 2
+Cello,Cello-4.wav,9,A#:min,Channel 2
+Cello,Cello-4.wav,10,F#:maj,Channel 2
+Cello,Cello-5.wav,0,B:maj,Channel 1
+Cello,Cello-5.wav,1,B:maj,Channel 1
+Cello,Cello-5.wav,2,C#:min,Channel 1
+Cello,Cello-5.wav,3,B:maj,Channel 1
+Cello,Cello-5.wav,4,F#:maj,Channel 1
+Cello,Cello-5.wav,5,C#:maj,Channel 1
+Cello,Cello-5.wav,6,B:maj,Channel 1
+Cello,Cello-5.wav,7,G#:min,Channel 1
+Cello,Cello-5.wav,8,B:maj,Channel 1
+Cello,Cello-5.wav,9,A#:min,Channel 1
+Cello,Cello-5.wav,10,B:maj,Channel 1
+Cello,Cello-5.wav,0,B:maj,Channel 2
+Cello,Cello-5.wav,1,B:maj,Channel 2
+Cello,Cello-5.wav,2,E:maj,Channel 2
+Cello,Cello-5.wav,3,B:maj,Channel 2
+Cello,Cello-5.wav,4,F#:maj,Channel 2
+Cello,Cello-5.wav,5,C#:maj,Channel 2
+Cello,Cello-5.wav,6,B:maj,Channel 2
+Cello,Cello-5.wav,7,G#:min,Channel 2
+Cello,Cello-5.wav,8,B:maj,Channel 2
+Cello,Cello-5.wav,9,A#:min,Channel 2
+Cello,Cello-5.wav,10,B:maj,Channel 2
+Cello,Cello-6.wav,0,A:min,Channel 1
+Cello,Cello-6.wav,1,F:min,Channel 1
+Cello,Cello-6.wav,2,G:maj,Channel 1
+Cello,Cello-6.wav,3,G:maj,Channel 1
+Cello,Cello-6.wav,4,C#:maj,Channel 1
+Cello,Cello-6.wav,5,C#:maj,Channel 1
+Cello,Cello-6.wav,6,G:min,Channel 1
+Cello,Cello-6.wav,7,G:min,Channel 1
+Cello,Cello-6.wav,8,G:min,Channel 1
+Cello,Cello-6.wav,9,G:min,Channel 1
+Cello,Cello-6.wav,10,F:min,Channel 1
+Cello,Cello-6.wav,0,D:maj,Channel 2
+Cello,Cello-6.wav,1,E:min,Channel 2
+Cello,Cello-6.wav,2,E:min,Channel 2
+Cello,Cello-6.wav,3,B:min,Channel 2
+Cello,Cello-6.wav,4,G:min,Channel 2
+Cello,Cello-6.wav,5,G:min,Channel 2
+Cello,Cello-6.wav,6,G:min,Channel 2
+Cello,Cello-6.wav,7,D:maj,Channel 2
+Cello,Cello-6.wav,8,D:maj,Channel 2
+Cello,Cello-6.wav,9,D:maj,Channel 2
+Cello,Cello-6.wav,10,E:maj,Channel 2
+Cello,Cello-7.wav,0,G:maj,Channel 1
+Cello,Cello-7.wav,1,D:maj,Channel 1
+Cello,Cello-7.wav,2,D:maj,Channel 1
+Cello,Cello-7.wav,3,G:maj,Channel 1
+Cello,Cello-7.wav,4,G:maj,Channel 1
+Cello,Cello-7.wav,5,D:maj,Channel 1
+Cello,Cello-7.wav,6,B:min,Channel 1
+Cello,Cello-7.wav,7,B:min,Channel 1
+Cello,Cello-7.wav,8,G:maj,Channel 1
+Cello,Cello-7.wav,9,G:maj,Channel 1
+Cello,Cello-7.wav,10,D:maj,Channel 1
+Cello,Cello-7.wav,0,G:maj,Channel 2
+Cello,Cello-7.wav,1,D:maj,Channel 2
+Cello,Cello-7.wav,2,G:maj,Channel 2
+Cello,Cello-7.wav,3,G:maj,Channel 2
+Cello,Cello-7.wav,4,D:maj,Channel 2
+Cello,Cello-7.wav,5,D:maj,Channel 2
+Cello,Cello-7.wav,6,G:maj,Channel 2
+Cello,Cello-7.wav,7,D:maj,Channel 2
+Cello,Cello-7.wav,8,G:maj,Channel 2
+Cello,Cello-7.wav,9,D:maj,Channel 2
+Cello,Cello-7.wav,10,D:maj,Channel 2
+Cello,Cello-8.wav,0,B:maj,Channel 1
+Cello,Cello-8.wav,1,B:maj,Channel 1
+Cello,Cello-8.wav,2,B:maj,Channel 1
+Cello,Cello-8.wav,3,E:maj,Channel 1
+Cello,Cello-8.wav,4,F#:maj,Channel 1
+Cello,Cello-8.wav,5,E:min,Channel 1
+Cello,Cello-8.wav,6,E:min,Channel 1
+Cello,Cello-8.wav,7,E:min,Channel 1
+Cello,Cello-8.wav,8,E:min,Channel 1
+Cello,Cello-8.wav,9,E:maj,Channel 1
+Cello,Cello-8.wav,10,F#:maj,Channel 1
+Cello,Cello-8.wav,0,B:maj,Channel 2
+Cello,Cello-8.wav,1,B:maj,Channel 2
+Cello,Cello-8.wav,2,B:maj,Channel 2
+Cello,Cello-8.wav,3,E:min,Channel 2
+Cello,Cello-8.wav,4,F#:maj,Channel 2
+Cello,Cello-8.wav,5,E:min,Channel 2
+Cello,Cello-8.wav,6,E:min,Channel 2
+Cello,Cello-8.wav,7,E:min,Channel 2
+Cello,Cello-8.wav,8,E:min,Channel 2
+Cello,Cello-8.wav,9,E:maj,Channel 2
+Cello,Cello-8.wav,10,F#:maj,Channel 2
+Cello,Cello-9.wav,0,G:min,Channel 1
+Cello,Cello-9.wav,1,G:min,Channel 1
+Cello,Cello-9.wav,2,G:min,Channel 1
+Cello,Cello-9.wav,3,C:min,Channel 1
+Cello,Cello-9.wav,4,D:maj,Channel 1
+Cello,Cello-9.wav,5,C:maj,Channel 1
+Cello,Cello-9.wav,6,D:maj,Channel 1
+Cello,Cello-9.wav,7,G:min,Channel 1
+Cello,Cello-9.wav,8,G:min,Channel 1
+Cello,Cello-9.wav,9,G:min,Channel 1
+Cello,Cello-9.wav,10,C:maj,Channel 1
+Cello,Cello-9.wav,11,C:maj,Channel 1
+Cello,Cello-9.wav,0,G:min,Channel 2
+Cello,Cello-9.wav,1,G:min,Channel 2
+Cello,Cello-9.wav,2,G:min,Channel 2
+Cello,Cello-9.wav,3,C:min,Channel 2
+Cello,Cello-9.wav,4,G:min,Channel 2
+Cello,Cello-9.wav,5,C:maj,Channel 2
+Cello,Cello-9.wav,6,G:min,Channel 2
+Cello,Cello-9.wav,7,G:min,Channel 2
+Cello,Cello-9.wav,8,G:min,Channel 2
+Cello,Cello-9.wav,9,G:min,Channel 2
+Cello,Cello-9.wav,10,C:maj,Channel 2
+Cello,Cello-9.wav,11,C:maj,Channel 2
+Cello,Cello-10.wav,0,C:maj,Channel 1
+Cello,Cello-10.wav,1,C:maj,Channel 1
+Cello,Cello-10.wav,2,C:maj,Channel 1
+Cello,Cello-10.wav,3,B:min,Channel 1
+Cello,Cello-10.wav,4,B:min,Channel 1
+Cello,Cello-10.wav,5,B:min,Channel 1
+Cello,Cello-10.wav,6,E:min,Channel 1
+Cello,Cello-10.wav,7,E:min,Channel 1
+Cello,Cello-10.wav,8,F:maj,Channel 1
+Cello,Cello-10.wav,9,A:min,Channel 1
+Cello,Cello-10.wav,10,D:maj,Channel 1
+Cello,Cello-10.wav,0,C:maj,Channel 2
+Cello,Cello-10.wav,1,C:maj,Channel 2
+Cello,Cello-10.wav,2,C:maj,Channel 2
+Cello,Cello-10.wav,3,B:min,Channel 2
+Cello,Cello-10.wav,4,B:min,Channel 2
+Cello,Cello-10.wav,5,B:min,Channel 2
+Cello,Cello-10.wav,6,E:min,Channel 2
+Cello,Cello-10.wav,7,E:min,Channel 2
+Cello,Cello-10.wav,8,F:maj,Channel 2
+Cello,Cello-10.wav,9,A:min,Channel 2
+Cello,Cello-10.wav,10,A:min,Channel 2
+Cello,Cello-11.wav,0,D:min,Channel 1
+Cello,Cello-11.wav,1,D:min,Channel 1
+Cello,Cello-11.wav,2,D:min,Channel 1
+Cello,Cello-11.wav,3,C:maj,Channel 1
+Cello,Cello-11.wav,4,C:maj,Channel 1
+Cello,Cello-11.wav,5,G:min,Channel 1
+Cello,Cello-11.wav,6,C:maj,Channel 1
+Cello,Cello-11.wav,7,C:maj,Channel 1
+Cello,Cello-11.wav,8,C:maj,Channel 1
+Cello,Cello-11.wav,9,C:maj,Channel 1
+Cello,Cello-11.wav,10,G:maj,Channel 1
+Cello,Cello-11.wav,0,D:min,Channel 2
+Cello,Cello-11.wav,1,D:min,Channel 2
+Cello,Cello-11.wav,2,D:min,Channel 2
+Cello,Cello-11.wav,3,C:maj,Channel 2
+Cello,Cello-11.wav,4,C:maj,Channel 2
+Cello,Cello-11.wav,5,A#:maj,Channel 2
+Cello,Cello-11.wav,6,C:maj,Channel 2
+Cello,Cello-11.wav,7,C:maj,Channel 2
+Cello,Cello-11.wav,8,C:maj,Channel 2
+Cello,Cello-11.wav,9,C:maj,Channel 2
+Cello,Cello-11.wav,10,G:maj,Channel 2
+Trumpet,Trumpet-1.wav,0,F:min,Channel 1
+Trumpet,Trumpet-1.wav,1,A:min,Channel 1
+Trumpet,Trumpet-1.wav,2,A:min,Channel 1
+Trumpet,Trumpet-1.wav,3,D:min,Channel 1
+Trumpet,Trumpet-1.wav,4,D:min,Channel 1
+Trumpet,Trumpet-1.wav,5,G:maj,Channel 1
+Trumpet,Trumpet-1.wav,6,G:maj,Channel 1
+Trumpet,Trumpet-1.wav,7,C:min,Channel 1
+Trumpet,Trumpet-1.wav,8,F:maj,Channel 1
+Trumpet,Trumpet-1.wav,9,G:maj,Channel 1
+Trumpet,Trumpet-1.wav,10,A#:maj,Channel 1
+Trumpet,Trumpet-2.wav,0,B:maj,Channel 1
+Trumpet,Trumpet-2.wav,1,B:maj,Channel 1
+Trumpet,Trumpet-2.wav,2,C#:maj,Channel 1
+Trumpet,Trumpet-2.wav,3,C#:maj,Channel 1
+Trumpet,Trumpet-2.wav,4,C#:maj,Channel 1
+Trumpet,Trumpet-2.wav,5,C#:maj,Channel 1
+Trumpet,Trumpet-2.wav,6,B:maj,Channel 1
+Trumpet,Trumpet-2.wav,7,B:maj,Channel 1
+Trumpet,Trumpet-2.wav,8,B:maj,Channel 1
+Trumpet,Trumpet-2.wav,9,B:maj,Channel 1
+Trumpet,Trumpet-2.wav,10,A#:maj,Channel 1
+Trumpet,Trumpet-2.wav,0,B:maj,Channel 2
+Trumpet,Trumpet-2.wav,1,B:maj,Channel 2
+Trumpet,Trumpet-2.wav,2,C#:maj,Channel 2
+Trumpet,Trumpet-2.wav,3,C#:maj,Channel 2
+Trumpet,Trumpet-2.wav,4,C#:maj,Channel 2
+Trumpet,Trumpet-2.wav,5,C#:maj,Channel 2
+Trumpet,Trumpet-2.wav,6,B:maj,Channel 2
+Trumpet,Trumpet-2.wav,7,B:maj,Channel 2
+Trumpet,Trumpet-2.wav,8,B:maj,Channel 2
+Trumpet,Trumpet-2.wav,9,B:maj,Channel 2
+Trumpet,Trumpet-2.wav,10,A#:maj,Channel 2
+Trumpet,Trumpet-3.wav,0,G:maj,Channel 1
+Trumpet,Trumpet-3.wav,1,G:maj,Channel 1
+Trumpet,Trumpet-3.wav,2,G:maj,Channel 1
+Trumpet,Trumpet-3.wav,3,A#:maj,Channel 1
+Trumpet,Trumpet-3.wav,4,F:maj,Channel 1
+Trumpet,Trumpet-3.wav,5,F:maj,Channel 1
+Trumpet,Trumpet-3.wav,6,G:maj,Channel 1
+Trumpet,Trumpet-3.wav,7,D:maj,Channel 1
+Trumpet,Trumpet-3.wav,8,D#:maj,Channel 1
+Trumpet,Trumpet-3.wav,9,D:maj,Channel 1
+Trumpet,Trumpet-3.wav,10,D:maj,Channel 1
+Trumpet,Trumpet-3.wav,0,G:maj,Channel 2
+Trumpet,Trumpet-3.wav,1,G:maj,Channel 2
+Trumpet,Trumpet-3.wav,2,G:maj,Channel 2
+Trumpet,Trumpet-3.wav,3,A#:maj,Channel 2
+Trumpet,Trumpet-3.wav,4,F:maj,Channel 2
+Trumpet,Trumpet-3.wav,5,F:maj,Channel 2
+Trumpet,Trumpet-3.wav,6,G:maj,Channel 2
+Trumpet,Trumpet-3.wav,7,D:maj,Channel 2
+Trumpet,Trumpet-3.wav,8,D#:maj,Channel 2
+Trumpet,Trumpet-3.wav,9,D:maj,Channel 2
+Trumpet,Trumpet-3.wav,10,D:maj,Channel 2
+Trumpet,Trumpet-4.wav,0,B:maj,Channel 1
+Trumpet,Trumpet-4.wav,1,B:maj,Channel 1
+Trumpet,Trumpet-4.wav,2,C#:maj,Channel 1
+Trumpet,Trumpet-4.wav,3,C#:maj,Channel 1
+Trumpet,Trumpet-4.wav,4,D:maj,Channel 1
+Trumpet,Trumpet-4.wav,5,C#:maj,Channel 1
+Trumpet,Trumpet-4.wav,6,D:maj,Channel 1
+Trumpet,Trumpet-4.wav,7,D:maj,Channel 1
+Trumpet,Trumpet-4.wav,8,C:min,Channel 1
+Trumpet,Trumpet-4.wav,9,C#:maj,Channel 1
+Trumpet,Trumpet-4.wav,10,C#:maj,Channel 1
+Trumpet,Trumpet-4.wav,0,B:maj,Channel 2
+Trumpet,Trumpet-4.wav,1,B:maj,Channel 2
+Trumpet,Trumpet-4.wav,2,C#:maj,Channel 2
+Trumpet,Trumpet-4.wav,3,C#:maj,Channel 2
+Trumpet,Trumpet-4.wav,4,D:maj,Channel 2
+Trumpet,Trumpet-4.wav,5,C#:maj,Channel 2
+Trumpet,Trumpet-4.wav,6,D:maj,Channel 2
+Trumpet,Trumpet-4.wav,7,D:maj,Channel 2
+Trumpet,Trumpet-4.wav,8,C:min,Channel 2
+Trumpet,Trumpet-4.wav,9,C#:maj,Channel 2
+Trumpet,Trumpet-4.wav,10,C#:maj,Channel 2
+Trumpet,Trumpet-5.wav,0,C#:min,Channel 1
+Trumpet,Trumpet-5.wav,1,C#:min,Channel 1
+Trumpet,Trumpet-5.wav,2,D#:min,Channel 1
+Trumpet,Trumpet-5.wav,3,B:maj,Channel 1
+Trumpet,Trumpet-5.wav,4,B:maj,Channel 1
+Trumpet,Trumpet-5.wav,5,A:maj,Channel 1
+Trumpet,Trumpet-5.wav,6,D:maj,Channel 1
+Trumpet,Trumpet-5.wav,7,D:maj,Channel 1
+Trumpet,Trumpet-5.wav,8,D:maj,Channel 1
+Trumpet,Trumpet-5.wav,9,D:maj,Channel 1
+Trumpet,Trumpet-5.wav,10,D:maj,Channel 1
+Trumpet,Trumpet-5.wav,0,C#:min,Channel 2
+Trumpet,Trumpet-5.wav,1,C#:min,Channel 2
+Trumpet,Trumpet-5.wav,2,D#:min,Channel 2
+Trumpet,Trumpet-5.wav,3,B:maj,Channel 2
+Trumpet,Trumpet-5.wav,4,B:maj,Channel 2
+Trumpet,Trumpet-5.wav,5,A:maj,Channel 2
+Trumpet,Trumpet-5.wav,6,D:maj,Channel 2
+Trumpet,Trumpet-5.wav,7,D:maj,Channel 2
+Trumpet,Trumpet-5.wav,8,D:maj,Channel 2
+Trumpet,Trumpet-5.wav,9,D:maj,Channel 2
+Trumpet,Trumpet-5.wav,10,D:maj,Channel 2
+Trumpet,Trumpet-6.wav,0,G#:min,Channel 1
+Trumpet,Trumpet-6.wav,1,F#:maj,Channel 1
+Trumpet,Trumpet-6.wav,2,B:maj,Channel 1
+Trumpet,Trumpet-6.wav,3,B:maj,Channel 1
+Trumpet,Trumpet-6.wav,4,A#:maj,Channel 1
+Trumpet,Trumpet-6.wav,5,A#:maj,Channel 1
+Trumpet,Trumpet-6.wav,6,D:maj,Channel 1
+Trumpet,Trumpet-6.wav,7,D:maj,Channel 1
+Trumpet,Trumpet-6.wav,8,D:maj,Channel 1
+Trumpet,Trumpet-6.wav,9,D:maj,Channel 1
+Trumpet,Trumpet-6.wav,10,D:maj,Channel 1
+Trumpet,Trumpet-6.wav,0,F#:maj,Channel 2
+Trumpet,Trumpet-6.wav,1,F#:maj,Channel 2
+Trumpet,Trumpet-6.wav,2,B:maj,Channel 2
+Trumpet,Trumpet-6.wav,3,B:maj,Channel 2
+Trumpet,Trumpet-6.wav,4,A:maj,Channel 2
+Trumpet,Trumpet-6.wav,5,D:maj,Channel 2
+Trumpet,Trumpet-6.wav,6,D:maj,Channel 2
+Trumpet,Trumpet-6.wav,7,D:maj,Channel 2
+Trumpet,Trumpet-6.wav,8,D:maj,Channel 2
+Trumpet,Trumpet-6.wav,9,D:maj,Channel 2
+Trumpet,Trumpet-6.wav,10,D:maj,Channel 2
+Trumpet,Trumpet-7.wav,0,A:maj,Channel 1
+Trumpet,Trumpet-7.wav,1,A:maj,Channel 1
+Trumpet,Trumpet-7.wav,2,G#:maj,Channel 1
+Trumpet,Trumpet-7.wav,3,F#:maj,Channel 1
+Trumpet,Trumpet-7.wav,4,C#:maj,Channel 1
+Trumpet,Trumpet-7.wav,5,C#:maj,Channel 1
+Trumpet,Trumpet-7.wav,6,C#:maj,Channel 1
+Trumpet,Trumpet-7.wav,7,C#:maj,Channel 1
+Trumpet,Trumpet-7.wav,8,A:maj,Channel 1
+Trumpet,Trumpet-7.wav,9,A:maj,Channel 1
+Trumpet,Trumpet-7.wav,10,G#:maj,Channel 1
+Trumpet,Trumpet-7.wav,0,A:maj,Channel 2
+Trumpet,Trumpet-7.wav,1,A:maj,Channel 2
+Trumpet,Trumpet-7.wav,2,G#:maj,Channel 2
+Trumpet,Trumpet-7.wav,3,F#:maj,Channel 2
+Trumpet,Trumpet-7.wav,4,C#:maj,Channel 2
+Trumpet,Trumpet-7.wav,5,C#:maj,Channel 2
+Trumpet,Trumpet-7.wav,6,C#:maj,Channel 2
+Trumpet,Trumpet-7.wav,7,C#:maj,Channel 2
+Trumpet,Trumpet-7.wav,8,A:maj,Channel 2
+Trumpet,Trumpet-7.wav,9,A:maj,Channel 2
+Trumpet,Trumpet-7.wav,10,G#:maj,Channel 2
+Trumpet,Trumpet-8.wav,0,D:min,Channel 1
+Trumpet,Trumpet-8.wav,1,D:min,Channel 1
+Trumpet,Trumpet-8.wav,2,E:maj,Channel 1
+Trumpet,Trumpet-8.wav,3,C:min,Channel 1
+Trumpet,Trumpet-8.wav,4,A#:maj,Channel 1
+Trumpet,Trumpet-8.wav,5,A#:maj,Channel 1
+Trumpet,Trumpet-8.wav,6,F:maj,Channel 1
+Trumpet,Trumpet-8.wav,7,F:maj,Channel 1
+Trumpet,Trumpet-8.wav,8,A:maj,Channel 1
+Trumpet,Trumpet-8.wav,9,G:maj,Channel 1
+Trumpet,Trumpet-8.wav,10,G:maj,Channel 1
+Trumpet,Trumpet-8.wav,0,D:min,Channel 2
+Trumpet,Trumpet-8.wav,1,D:min,Channel 2
+Trumpet,Trumpet-8.wav,2,E:maj,Channel 2
+Trumpet,Trumpet-8.wav,3,C:min,Channel 2
+Trumpet,Trumpet-8.wav,4,A#:maj,Channel 2
+Trumpet,Trumpet-8.wav,5,A#:maj,Channel 2
+Trumpet,Trumpet-8.wav,6,F:maj,Channel 2
+Trumpet,Trumpet-8.wav,7,F:maj,Channel 2
+Trumpet,Trumpet-8.wav,8,F:maj,Channel 2
+Trumpet,Trumpet-8.wav,9,G:min,Channel 2
+Trumpet,Trumpet-8.wav,10,G:maj,Channel 2
+Trumpet,Trumpet-9.wav,0,G:maj,Channel 1
+Trumpet,Trumpet-9.wav,1,G:maj,Channel 1
+Trumpet,Trumpet-9.wav,2,D#:maj,Channel 1
+Trumpet,Trumpet-9.wav,3,D#:maj,Channel 1
+Trumpet,Trumpet-9.wav,4,G:maj,Channel 1
+Trumpet,Trumpet-9.wav,5,D:maj,Channel 1
+Trumpet,Trumpet-9.wav,6,D:maj,Channel 1
+Trumpet,Trumpet-9.wav,7,D#:min,Channel 1
+Trumpet,Trumpet-9.wav,8,D#:min,Channel 1
+Trumpet,Trumpet-9.wav,9,G:maj,Channel 1
+Trumpet,Trumpet-9.wav,10,G:maj,Channel 1
+Trumpet,Trumpet-9.wav,0,G:maj,Channel 2
+Trumpet,Trumpet-9.wav,1,G:maj,Channel 2
+Trumpet,Trumpet-9.wav,2,D#:maj,Channel 2
+Trumpet,Trumpet-9.wav,3,D#:maj,Channel 2
+Trumpet,Trumpet-9.wav,4,G:maj,Channel 2
+Trumpet,Trumpet-9.wav,5,D:maj,Channel 2
+Trumpet,Trumpet-9.wav,6,D:maj,Channel 2
+Trumpet,Trumpet-9.wav,7,F#:maj,Channel 2
+Trumpet,Trumpet-9.wav,8,D#:maj,Channel 2
+Trumpet,Trumpet-9.wav,9,G:maj,Channel 2
+Trumpet,Trumpet-9.wav,10,G:maj,Channel 2
+Trumpet,Trumpet-10.wav,0,D#:maj,Channel 1
+Trumpet,Trumpet-10.wav,1,D#:maj,Channel 1
+Trumpet,Trumpet-10.wav,2,G:maj,Channel 1
+Trumpet,Trumpet-10.wav,3,G:maj,Channel 1
+Trumpet,Trumpet-10.wav,4,G:maj,Channel 1
+Trumpet,Trumpet-10.wav,5,G:maj,Channel 1
+Trumpet,Trumpet-10.wav,6,G:maj,Channel 1
+Trumpet,Trumpet-10.wav,7,G:maj,Channel 1
+Trumpet,Trumpet-10.wav,8,G:maj,Channel 1
+Trumpet,Trumpet-10.wav,9,G:maj,Channel 1
+Trumpet,Trumpet-10.wav,10,G:maj,Channel 1
+Trumpet,Trumpet-10.wav,0,D#:maj,Channel 2
+Trumpet,Trumpet-10.wav,1,D#:maj,Channel 2
+Trumpet,Trumpet-10.wav,2,G:maj,Channel 2
+Trumpet,Trumpet-10.wav,3,G:maj,Channel 2
+Trumpet,Trumpet-10.wav,4,G:maj,Channel 2
+Trumpet,Trumpet-10.wav,5,G:maj,Channel 2
+Trumpet,Trumpet-10.wav,6,G:maj,Channel 2
+Trumpet,Trumpet-10.wav,7,G:maj,Channel 2
+Trumpet,Trumpet-10.wav,8,G:maj,Channel 2
+Trumpet,Trumpet-10.wav,9,G:maj,Channel 2
+Trumpet,Trumpet-10.wav,10,G:maj,Channel 2
+Trumpet,Trumpet-11.wav,0,C:min,Channel 1
+Trumpet,Trumpet-11.wav,1,C#:min,Channel 1
+Trumpet,Trumpet-11.wav,2,D:maj,Channel 1
+Trumpet,Trumpet-11.wav,3,C#:maj,Channel 1
+Trumpet,Trumpet-11.wav,4,D:maj,Channel 1
+Trumpet,Trumpet-11.wav,5,D:maj,Channel 1
+Trumpet,Trumpet-11.wav,6,C:min,Channel 1
+Trumpet,Trumpet-11.wav,7,C#:maj,Channel 1
+Trumpet,Trumpet-11.wav,8,C#:maj,Channel 1
+Trumpet,Trumpet-11.wav,9,B:maj,Channel 1
+Trumpet,Trumpet-11.wav,10,E:min,Channel 1
+Trumpet,Trumpet-11.wav,0,C:min,Channel 2
+Trumpet,Trumpet-11.wav,1,C#:min,Channel 2
+Trumpet,Trumpet-11.wav,2,D:maj,Channel 2
+Trumpet,Trumpet-11.wav,3,C#:maj,Channel 2
+Trumpet,Trumpet-11.wav,4,D:maj,Channel 2
+Trumpet,Trumpet-11.wav,5,D:maj,Channel 2
+Trumpet,Trumpet-11.wav,6,C:min,Channel 2
+Trumpet,Trumpet-11.wav,7,C#:maj,Channel 2
+Trumpet,Trumpet-11.wav,8,C#:maj,Channel 2
+Trumpet,Trumpet-11.wav,9,B:maj,Channel 2
+Trumpet,Trumpet-11.wav,10,E:min,Channel 2
+Piccolo,Piccolo-1.wav,0,F#:maj,Channel 1
+Piccolo,Piccolo-1.wav,1,G#:min,Channel 1
+Piccolo,Piccolo-1.wav,2,G#:min,Channel 1
+Piccolo,Piccolo-1.wav,3,G#:min,Channel 1
+Piccolo,Piccolo-1.wav,4,F#:min,Channel 1
+Piccolo,Piccolo-1.wav,5,B:min,Channel 1
+Piccolo,Piccolo-1.wav,6,B:min,Channel 1
+Piccolo,Piccolo-1.wav,7,F#:min,Channel 1
+Piccolo,Piccolo-1.wav,8,E:maj,Channel 1
+Piccolo,Piccolo-1.wav,9,B:min,Channel 1
+Piccolo,Piccolo-1.wav,10,C#:min,Channel 1
+Piccolo,Piccolo-1.wav,0,F#:maj,Channel 2
+Piccolo,Piccolo-1.wav,1,G#:min,Channel 2
+Piccolo,Piccolo-1.wav,2,G#:min,Channel 2
+Piccolo,Piccolo-1.wav,3,G#:min,Channel 2
+Piccolo,Piccolo-1.wav,4,F#:min,Channel 2
+Piccolo,Piccolo-1.wav,5,B:min,Channel 2
+Piccolo,Piccolo-1.wav,6,B:min,Channel 2
+Piccolo,Piccolo-1.wav,7,C#:maj,Channel 2
+Piccolo,Piccolo-1.wav,8,E:maj,Channel 2
+Piccolo,Piccolo-1.wav,9,B:min,Channel 2
+Piccolo,Piccolo-1.wav,10,C#:min,Channel 2
+Piccolo,Piccolo-2.wav,0,G#:min,Channel 1
+Piccolo,Piccolo-2.wav,1,E:maj,Channel 1
+Piccolo,Piccolo-2.wav,2,B:min,Channel 1
+Piccolo,Piccolo-2.wav,3,C#:min,Channel 1
+Piccolo,Piccolo-2.wav,4,D:maj,Channel 1
+Piccolo,Piccolo-2.wav,5,D:maj,Channel 1
+Piccolo,Piccolo-2.wav,6,D:maj,Channel 1
+Piccolo,Piccolo-2.wav,7,D:maj,Channel 1
+Piccolo,Piccolo-2.wav,8,E:maj,Channel 1
+Piccolo,Piccolo-2.wav,9,E:maj,Channel 1
+Piccolo,Piccolo-2.wav,10,E:maj,Channel 1
+Piccolo,Piccolo-2.wav,0,G#:min,Channel 2
+Piccolo,Piccolo-2.wav,1,E:maj,Channel 2
+Piccolo,Piccolo-2.wav,2,B:min,Channel 2
+Piccolo,Piccolo-2.wav,3,C#:min,Channel 2
+Piccolo,Piccolo-2.wav,4,D:maj,Channel 2
+Piccolo,Piccolo-2.wav,5,D:maj,Channel 2
+Piccolo,Piccolo-2.wav,6,D:maj,Channel 2
+Piccolo,Piccolo-2.wav,7,D:maj,Channel 2
+Piccolo,Piccolo-2.wav,8,E:maj,Channel 2
+Piccolo,Piccolo-2.wav,9,E:maj,Channel 2
+Piccolo,Piccolo-2.wav,10,E:maj,Channel 2
+Piccolo,Piccolo-3.wav,0,F#:maj,Channel 1
+Piccolo,Piccolo-3.wav,1,F#:maj,Channel 1
+Piccolo,Piccolo-3.wav,2,G#:min,Channel 1
+Piccolo,Piccolo-3.wav,3,G#:min,Channel 1
+Piccolo,Piccolo-3.wav,4,G#:min,Channel 1
+Piccolo,Piccolo-3.wav,5,F#:min,Channel 1
+Piccolo,Piccolo-3.wav,6,B:min,Channel 1
+Piccolo,Piccolo-3.wav,7,B:min,Channel 1
+Piccolo,Piccolo-3.wav,8,B:min,Channel 1
+Piccolo,Piccolo-3.wav,9,E:maj,Channel 1
+Piccolo,Piccolo-3.wav,10,B:min,Channel 1
+Piccolo,Piccolo-3.wav,0,F#:maj,Channel 2
+Piccolo,Piccolo-3.wav,1,F#:maj,Channel 2
+Piccolo,Piccolo-3.wav,2,G#:min,Channel 2
+Piccolo,Piccolo-3.wav,3,G#:min,Channel 2
+Piccolo,Piccolo-3.wav,4,G#:min,Channel 2
+Piccolo,Piccolo-3.wav,5,F#:min,Channel 2
+Piccolo,Piccolo-3.wav,6,B:min,Channel 2
+Piccolo,Piccolo-3.wav,7,B:min,Channel 2
+Piccolo,Piccolo-3.wav,8,B:min,Channel 2
+Piccolo,Piccolo-3.wav,9,E:maj,Channel 2
+Piccolo,Piccolo-3.wav,10,B:min,Channel 2
+Piccolo,Piccolo-4.wav,0,B:min,Channel 1
+Piccolo,Piccolo-4.wav,1,B:min,Channel 1
+Piccolo,Piccolo-4.wav,2,C#:min,Channel 1
+Piccolo,Piccolo-4.wav,3,B:min,Channel 1
+Piccolo,Piccolo-4.wav,4,B:min,Channel 1
+Piccolo,Piccolo-4.wav,5,B:min,Channel 1
+Piccolo,Piccolo-4.wav,6,F#:min,Channel 1
+Piccolo,Piccolo-4.wav,7,A:maj,Channel 1
+Piccolo,Piccolo-4.wav,8,G#:min,Channel 1
+Piccolo,Piccolo-4.wav,9,B:min,Channel 1
+Piccolo,Piccolo-4.wav,10,B:min,Channel 1
+Piccolo,Piccolo-4.wav,0,B:min,Channel 2
+Piccolo,Piccolo-4.wav,1,B:min,Channel 2
+Piccolo,Piccolo-4.wav,2,C#:min,Channel 2
+Piccolo,Piccolo-4.wav,3,B:min,Channel 2
+Piccolo,Piccolo-4.wav,4,B:min,Channel 2
+Piccolo,Piccolo-4.wav,5,B:min,Channel 2
+Piccolo,Piccolo-4.wav,6,F#:min,Channel 2
+Piccolo,Piccolo-4.wav,7,A:maj,Channel 2
+Piccolo,Piccolo-4.wav,8,G#:min,Channel 2
+Piccolo,Piccolo-4.wav,9,B:min,Channel 2
+Piccolo,Piccolo-4.wav,10,B:min,Channel 2
+Piccolo,Piccolo-5.wav,0,E:min,Channel 1
+Piccolo,Piccolo-5.wav,1,D:maj,Channel 1
+Piccolo,Piccolo-5.wav,2,D:maj,Channel 1
+Piccolo,Piccolo-5.wav,3,E:maj,Channel 1
+Piccolo,Piccolo-5.wav,4,F#:min,Channel 1
+Piccolo,Piccolo-5.wav,5,B:min,Channel 1
+Piccolo,Piccolo-5.wav,6,C#:min,Channel 1
+Piccolo,Piccolo-5.wav,7,C#:min,Channel 1
+Piccolo,Piccolo-5.wav,8,E:maj,Channel 1
+Piccolo,Piccolo-5.wav,9,C#:min,Channel 1
+Piccolo,Piccolo-5.wav,10,B:min,Channel 1
+Piccolo,Piccolo-5.wav,0,E:min,Channel 2
+Piccolo,Piccolo-5.wav,1,D:maj,Channel 2
+Piccolo,Piccolo-5.wav,2,D:maj,Channel 2
+Piccolo,Piccolo-5.wav,3,E:maj,Channel 2
+Piccolo,Piccolo-5.wav,4,F#:min,Channel 2
+Piccolo,Piccolo-5.wav,5,B:min,Channel 2
+Piccolo,Piccolo-5.wav,6,C#:min,Channel 2
+Piccolo,Piccolo-5.wav,7,C#:min,Channel 2
+Piccolo,Piccolo-5.wav,8,E:maj,Channel 2
+Piccolo,Piccolo-5.wav,9,C#:min,Channel 2
+Piccolo,Piccolo-5.wav,10,B:min,Channel 2
+Piccolo,Piccolo-6.wav,0,B:min,Channel 1
+Piccolo,Piccolo-6.wav,1,B:min,Channel 1
+Piccolo,Piccolo-6.wav,2,A:maj,Channel 1
+Piccolo,Piccolo-6.wav,3,A:maj,Channel 1
+Piccolo,Piccolo-6.wav,4,A:maj,Channel 1
+Piccolo,Piccolo-6.wav,5,A:maj,Channel 1
+Piccolo,Piccolo-6.wav,6,D:maj,Channel 1
+Piccolo,Piccolo-6.wav,7,D:maj,Channel 1
+Piccolo,Piccolo-6.wav,8,D:maj,Channel 1
+Piccolo,Piccolo-6.wav,9,E:maj,Channel 1
+Piccolo,Piccolo-6.wav,10,E:maj,Channel 1
+Piccolo,Piccolo-6.wav,0,B:min,Channel 2
+Piccolo,Piccolo-6.wav,1,B:min,Channel 2
+Piccolo,Piccolo-6.wav,2,A:maj,Channel 2
+Piccolo,Piccolo-6.wav,3,A:maj,Channel 2
+Piccolo,Piccolo-6.wav,4,A:maj,Channel 2
+Piccolo,Piccolo-6.wav,5,A:maj,Channel 2
+Piccolo,Piccolo-6.wav,6,D:maj,Channel 2
+Piccolo,Piccolo-6.wav,7,D:maj,Channel 2
+Piccolo,Piccolo-6.wav,8,D:maj,Channel 2
+Piccolo,Piccolo-6.wav,9,A:maj,Channel 2
+Piccolo,Piccolo-6.wav,10,A:maj,Channel 2
+Piccolo,Piccolo-7.wav,0,A#:min,Channel 1
+Piccolo,Piccolo-7.wav,1,A#:min,Channel 1
+Piccolo,Piccolo-7.wav,2,A#:min,Channel 1
+Piccolo,Piccolo-7.wav,3,A#:min,Channel 1
+Piccolo,Piccolo-7.wav,4,F#:maj,Channel 1
+Piccolo,Piccolo-7.wav,5,G#:min,Channel 1
+Piccolo,Piccolo-7.wav,6,G#:min,Channel 1
+Piccolo,Piccolo-7.wav,7,G#:min,Channel 1
+Piccolo,Piccolo-7.wav,8,D:maj,Channel 1
+Piccolo,Piccolo-7.wav,9,B:min,Channel 1
+Piccolo,Piccolo-7.wav,10,B:min,Channel 1
+Piccolo,Piccolo-7.wav,0,A#:min,Channel 2
+Piccolo,Piccolo-7.wav,1,A#:min,Channel 2
+Piccolo,Piccolo-7.wav,2,A#:min,Channel 2
+Piccolo,Piccolo-7.wav,3,A#:min,Channel 2
+Piccolo,Piccolo-7.wav,4,F#:maj,Channel 2
+Piccolo,Piccolo-7.wav,5,G#:min,Channel 2
+Piccolo,Piccolo-7.wav,6,G#:min,Channel 2
+Piccolo,Piccolo-7.wav,7,G#:min,Channel 2
+Piccolo,Piccolo-7.wav,8,D:maj,Channel 2
+Piccolo,Piccolo-7.wav,9,B:min,Channel 2
+Piccolo,Piccolo-7.wav,10,B:min,Channel 2
+Piccolo,Piccolo-8.wav,0,E:maj,Channel 1
+Piccolo,Piccolo-8.wav,1,E:maj,Channel 1
+Piccolo,Piccolo-8.wav,2,C#:min,Channel 1
+Piccolo,Piccolo-8.wav,3,D#:maj,Channel 1
+Piccolo,Piccolo-8.wav,4,F#:maj,Channel 1
+Piccolo,Piccolo-8.wav,5,D#:min,Channel 1
+Piccolo,Piccolo-8.wav,6,D#:min,Channel 1
+Piccolo,Piccolo-8.wav,7,D#:min,Channel 1
+Piccolo,Piccolo-8.wav,8,D#:min,Channel 1
+Piccolo,Piccolo-8.wav,9,D#:min,Channel 1
+Piccolo,Piccolo-8.wav,10,D#:min,Channel 1
+Piccolo,Piccolo-8.wav,0,E:maj,Channel 2
+Piccolo,Piccolo-8.wav,1,E:maj,Channel 2
+Piccolo,Piccolo-8.wav,2,C#:min,Channel 2
+Piccolo,Piccolo-8.wav,3,D#:min,Channel 2
+Piccolo,Piccolo-8.wav,4,B:maj,Channel 2
+Piccolo,Piccolo-8.wav,5,D#:min,Channel 2
+Piccolo,Piccolo-8.wav,6,D#:min,Channel 2
+Piccolo,Piccolo-8.wav,7,D#:min,Channel 2
+Piccolo,Piccolo-8.wav,8,D#:min,Channel 2
+Piccolo,Piccolo-8.wav,9,D#:min,Channel 2
+Piccolo,Piccolo-8.wav,10,D#:min,Channel 2
+Piccolo,Piccolo-9.wav,0,E:maj,Channel 1
+Piccolo,Piccolo-9.wav,1,E:maj,Channel 1
+Piccolo,Piccolo-9.wav,2,E:maj,Channel 1
+Piccolo,Piccolo-9.wav,3,E:maj,Channel 1
+Piccolo,Piccolo-9.wav,4,B:maj,Channel 1
+Piccolo,Piccolo-9.wav,5,G#:maj,Channel 1
+Piccolo,Piccolo-9.wav,6,F#:maj,Channel 1
+Piccolo,Piccolo-9.wav,7,G#:min,Channel 1
+Piccolo,Piccolo-9.wav,8,G#:maj,Channel 1
+Piccolo,Piccolo-9.wav,9,G#:maj,Channel 1
+Piccolo,Piccolo-9.wav,10,G#:maj,Channel 1
+Piccolo,Piccolo-9.wav,0,E:maj,Channel 2
+Piccolo,Piccolo-9.wav,1,E:maj,Channel 2
+Piccolo,Piccolo-9.wav,2,E:maj,Channel 2
+Piccolo,Piccolo-9.wav,3,E:maj,Channel 2
+Piccolo,Piccolo-9.wav,4,B:maj,Channel 2
+Piccolo,Piccolo-9.wav,5,G#:maj,Channel 2
+Piccolo,Piccolo-9.wav,6,B:maj,Channel 2
+Piccolo,Piccolo-9.wav,7,C#:min,Channel 2
+Piccolo,Piccolo-9.wav,8,G#:min,Channel 2
+Piccolo,Piccolo-9.wav,9,G#:min,Channel 2
+Piccolo,Piccolo-9.wav,10,G#:min,Channel 2
+Piccolo,Piccolo-10.wav,0,C#:min,Channel 1
+Piccolo,Piccolo-10.wav,1,F#:maj,Channel 1
+Piccolo,Piccolo-10.wav,2,F#:maj,Channel 1
+Piccolo,Piccolo-10.wav,3,E:maj,Channel 1
+Piccolo,Piccolo-10.wav,4,E:maj,Channel 1
+Piccolo,Piccolo-10.wav,5,F:maj,Channel 1
+Piccolo,Piccolo-10.wav,6,A:min,Channel 1
+Piccolo,Piccolo-10.wav,7,B:min,Channel 1
+Piccolo,Piccolo-10.wav,8,B:min,Channel 1
+Piccolo,Piccolo-10.wav,9,E:maj,Channel 1
+Piccolo,Piccolo-10.wav,10,A:min,Channel 1
+Piccolo,Piccolo-10.wav,0,C#:min,Channel 2
+Piccolo,Piccolo-10.wav,1,F#:maj,Channel 2
+Piccolo,Piccolo-10.wav,2,F#:maj,Channel 2
+Piccolo,Piccolo-10.wav,3,E:maj,Channel 2
+Piccolo,Piccolo-10.wav,4,E:maj,Channel 2
+Piccolo,Piccolo-10.wav,5,F:maj,Channel 2
+Piccolo,Piccolo-10.wav,6,E:min,Channel 2
+Piccolo,Piccolo-10.wav,7,D:min,Channel 2
+Piccolo,Piccolo-10.wav,8,B:min,Channel 2
+Piccolo,Piccolo-10.wav,9,E:maj,Channel 2
+Piccolo,Piccolo-10.wav,10,A:min,Channel 2
+Piccolo,Piccolo-11.wav,0,A:maj,Channel 1
+Piccolo,Piccolo-11.wav,1,A:maj,Channel 1
+Piccolo,Piccolo-11.wav,2,B:maj,Channel 1
+Piccolo,Piccolo-11.wav,3,E:maj,Channel 1
+Piccolo,Piccolo-11.wav,4,G:maj,Channel 1
+Piccolo,Piccolo-11.wav,5,G:maj,Channel 1
+Piccolo,Piccolo-11.wav,6,C:maj,Channel 1
+Piccolo,Piccolo-11.wav,7,C:maj,Channel 1
+Piccolo,Piccolo-11.wav,8,C:maj,Channel 1
+Piccolo,Piccolo-11.wav,9,G:maj,Channel 1
+Piccolo,Piccolo-11.wav,10,G:maj,Channel 1
+Piccolo,Piccolo-11.wav,0,A:maj,Channel 2
+Piccolo,Piccolo-11.wav,1,A:maj,Channel 2
+Piccolo,Piccolo-11.wav,2,B:maj,Channel 2
+Piccolo,Piccolo-11.wav,3,A:maj,Channel 2
+Piccolo,Piccolo-11.wav,4,G#:min,Channel 2
+Piccolo,Piccolo-11.wav,5,E:min,Channel 2
+Piccolo,Piccolo-11.wav,6,C:maj,Channel 2
+Piccolo,Piccolo-11.wav,7,C:maj,Channel 2
+Piccolo,Piccolo-11.wav,8,C:maj,Channel 2
+Piccolo,Piccolo-11.wav,9,D:min,Channel 2
+Piccolo,Piccolo-11.wav,10,G:maj,Channel 2
+Oboe,Oboe-1.wav,0,F:maj,Channel 1
+Oboe,Oboe-1.wav,1,F:maj,Channel 1
+Oboe,Oboe-1.wav,2,C#:maj,Channel 1
+Oboe,Oboe-1.wav,3,A:min,Channel 1
+Oboe,Oboe-1.wav,4,F:maj,Channel 1
+Oboe,Oboe-1.wav,5,F:maj,Channel 1
+Oboe,Oboe-1.wav,6,G:maj,Channel 1
+Oboe,Oboe-1.wav,7,A#:maj,Channel 1
+Oboe,Oboe-1.wav,8,C#:maj,Channel 1
+Oboe,Oboe-1.wav,9,D#:maj,Channel 1
+Oboe,Oboe-1.wav,10,C:min,Channel 1
+Oboe,Oboe-1.wav,0,F:maj,Channel 2
+Oboe,Oboe-1.wav,1,F:maj,Channel 2
+Oboe,Oboe-1.wav,2,C#:min,Channel 2
+Oboe,Oboe-1.wav,3,A:min,Channel 2
+Oboe,Oboe-1.wav,4,F:maj,Channel 2
+Oboe,Oboe-1.wav,5,F:maj,Channel 2
+Oboe,Oboe-1.wav,6,G:maj,Channel 2
+Oboe,Oboe-1.wav,7,A#:maj,Channel 2
+Oboe,Oboe-1.wav,8,C#:maj,Channel 2
+Oboe,Oboe-1.wav,9,D#:maj,Channel 2
+Oboe,Oboe-1.wav,10,C:min,Channel 2
+Oboe,Oboe-2.wav,0,D:min,Channel 1
+Oboe,Oboe-2.wav,1,D:min,Channel 1
+Oboe,Oboe-2.wav,2,F:min,Channel 1
+Oboe,Oboe-2.wav,3,C:maj,Channel 1
+Oboe,Oboe-2.wav,4,C:maj,Channel 1
+Oboe,Oboe-2.wav,5,D:min,Channel 1
+Oboe,Oboe-2.wav,6,C#:min,Channel 1
+Oboe,Oboe-2.wav,7,C#:min,Channel 1
+Oboe,Oboe-2.wav,8,C:maj,Channel 1
+Oboe,Oboe-2.wav,9,C:maj,Channel 1
+Oboe,Oboe-2.wav,10,C:maj,Channel 1
+Oboe,Oboe-2.wav,0,D:min,Channel 2
+Oboe,Oboe-2.wav,1,D:min,Channel 2
+Oboe,Oboe-2.wav,2,F:min,Channel 2
+Oboe,Oboe-2.wav,3,C:maj,Channel 2
+Oboe,Oboe-2.wav,4,C:maj,Channel 2
+Oboe,Oboe-2.wav,5,D:min,Channel 2
+Oboe,Oboe-2.wav,6,C#:min,Channel 2
+Oboe,Oboe-2.wav,7,C#:min,Channel 2
+Oboe,Oboe-2.wav,8,C:maj,Channel 2
+Oboe,Oboe-2.wav,9,C:maj,Channel 2
+Oboe,Oboe-2.wav,10,C:maj,Channel 2
+Oboe,Oboe-3.wav,0,D:maj,Channel 1
+Oboe,Oboe-3.wav,1,F#:min,Channel 1
+Oboe,Oboe-3.wav,2,F#:min,Channel 1
+Oboe,Oboe-3.wav,3,F#:min,Channel 1
+Oboe,Oboe-3.wav,4,D#:maj,Channel 1
+Oboe,Oboe-3.wav,5,F#:min,Channel 1
+Oboe,Oboe-3.wav,6,E:maj,Channel 1
+Oboe,Oboe-3.wav,7,A:maj,Channel 1
+Oboe,Oboe-3.wav,8,E:maj,Channel 1
+Oboe,Oboe-3.wav,9,E:maj,Channel 1
+Oboe,Oboe-3.wav,10,E:maj,Channel 1
+Oboe,Oboe-3.wav,0,D:maj,Channel 2
+Oboe,Oboe-3.wav,1,F#:min,Channel 2
+Oboe,Oboe-3.wav,2,F#:min,Channel 2
+Oboe,Oboe-3.wav,3,F#:min,Channel 2
+Oboe,Oboe-3.wav,4,B:maj,Channel 2
+Oboe,Oboe-3.wav,5,A:maj,Channel 2
+Oboe,Oboe-3.wav,6,E:maj,Channel 2
+Oboe,Oboe-3.wav,7,A:maj,Channel 2
+Oboe,Oboe-3.wav,8,E:maj,Channel 2
+Oboe,Oboe-3.wav,9,E:maj,Channel 2
+Oboe,Oboe-3.wav,10,E:maj,Channel 2
+Oboe,Oboe-4.wav,0,G:maj,Channel 1
+Oboe,Oboe-4.wav,1,G:maj,Channel 1
+Oboe,Oboe-4.wav,2,F:min,Channel 1
+Oboe,Oboe-4.wav,3,C:maj,Channel 1
+Oboe,Oboe-4.wav,4,C:maj,Channel 1
+Oboe,Oboe-4.wav,5,D:min,Channel 1
+Oboe,Oboe-4.wav,6,D:min,Channel 1
+Oboe,Oboe-4.wav,7,C:min,Channel 1
+Oboe,Oboe-4.wav,8,D:min,Channel 1
+Oboe,Oboe-4.wav,0,G:maj,Channel 2
+Oboe,Oboe-4.wav,1,G:maj,Channel 2
+Oboe,Oboe-4.wav,2,F:min,Channel 2
+Oboe,Oboe-4.wav,3,C:maj,Channel 2
+Oboe,Oboe-4.wav,4,C:maj,Channel 2
+Oboe,Oboe-4.wav,5,D:min,Channel 2
+Oboe,Oboe-4.wav,6,D:min,Channel 2
+Oboe,Oboe-4.wav,7,C:min,Channel 2
+Oboe,Oboe-4.wav,8,D:min,Channel 2
+Oboe,Oboe-5.wav,0,A:maj,Channel 1
+Oboe,Oboe-5.wav,1,A:maj,Channel 1
+Oboe,Oboe-5.wav,2,C#:maj,Channel 1
+Oboe,Oboe-5.wav,3,B:min,Channel 1
+Oboe,Oboe-5.wav,4,E:maj,Channel 1
+Oboe,Oboe-5.wav,5,A:maj,Channel 1
+Oboe,Oboe-5.wav,6,A:maj,Channel 1
+Oboe,Oboe-5.wav,7,C#:min,Channel 1
+Oboe,Oboe-5.wav,8,F#:min,Channel 1
+Oboe,Oboe-5.wav,9,C#:min,Channel 1
+Oboe,Oboe-5.wav,10,A#:maj,Channel 1
+Oboe,Oboe-5.wav,0,A:maj,Channel 2
+Oboe,Oboe-5.wav,1,A:maj,Channel 2
+Oboe,Oboe-5.wav,2,C#:maj,Channel 2
+Oboe,Oboe-5.wav,3,B:min,Channel 2
+Oboe,Oboe-5.wav,4,A:maj,Channel 2
+Oboe,Oboe-5.wav,5,A:maj,Channel 2
+Oboe,Oboe-5.wav,6,F#:min,Channel 2
+Oboe,Oboe-5.wav,7,C#:min,Channel 2
+Oboe,Oboe-5.wav,8,F#:min,Channel 2
+Oboe,Oboe-5.wav,9,C#:min,Channel 2
+Oboe,Oboe-5.wav,10,E:min,Channel 2
+Oboe,Oboe-6.wav,0,A#:maj,Channel 1
+Oboe,Oboe-6.wav,1,A#:maj,Channel 1
+Oboe,Oboe-6.wav,2,A:maj,Channel 1
+Oboe,Oboe-6.wav,3,A:maj,Channel 1
+Oboe,Oboe-6.wav,4,A#:min,Channel 1
+Oboe,Oboe-6.wav,5,A#:maj,Channel 1
+Oboe,Oboe-6.wav,6,F:maj,Channel 1
+Oboe,Oboe-6.wav,7,C:min,Channel 1
+Oboe,Oboe-6.wav,0,A#:maj,Channel 2
+Oboe,Oboe-6.wav,1,A#:maj,Channel 2
+Oboe,Oboe-6.wav,2,A:maj,Channel 2
+Oboe,Oboe-6.wav,3,A:maj,Channel 2
+Oboe,Oboe-6.wav,4,A#:min,Channel 2
+Oboe,Oboe-6.wav,5,A#:maj,Channel 2
+Oboe,Oboe-6.wav,6,F:min,Channel 2
+Oboe,Oboe-6.wav,7,C:min,Channel 2
+Oboe,Oboe-7.wav,0,B:min,Channel 1
+Oboe,Oboe-7.wav,1,B:min,Channel 1
+Oboe,Oboe-7.wav,2,B:min,Channel 1
+Oboe,Oboe-7.wav,3,B:min,Channel 1
+Oboe,Oboe-7.wav,4,B:min,Channel 1
+Oboe,Oboe-7.wav,5,B:min,Channel 1
+Oboe,Oboe-7.wav,6,G:maj,Channel 1
+Oboe,Oboe-7.wav,7,B:maj,Channel 1
+Oboe,Oboe-7.wav,8,B:maj,Channel 1
+Oboe,Oboe-7.wav,9,E:maj,Channel 1
+Oboe,Oboe-8.wav,0,A#:maj,Channel 1
+Oboe,Oboe-8.wav,1,A#:maj,Channel 1
+Oboe,Oboe-8.wav,2,F:maj,Channel 1
+Oboe,Oboe-8.wav,3,C#:maj,Channel 1
+Oboe,Oboe-8.wav,4,A:min,Channel 1
+Oboe,Oboe-8.wav,5,F:maj,Channel 1
+Oboe,Oboe-8.wav,6,F:maj,Channel 1
+Oboe,Oboe-8.wav,7,G:maj,Channel 1
+Oboe,Oboe-8.wav,8,A#:maj,Channel 1
+Oboe,Oboe-8.wav,9,C#:maj,Channel 1
+Oboe,Oboe-8.wav,0,A#:maj,Channel 2
+Oboe,Oboe-8.wav,1,A#:maj,Channel 2
+Oboe,Oboe-8.wav,2,F:maj,Channel 2
+Oboe,Oboe-8.wav,3,C#:min,Channel 2
+Oboe,Oboe-8.wav,4,A:min,Channel 2
+Oboe,Oboe-8.wav,5,F:maj,Channel 2
+Oboe,Oboe-8.wav,6,F:maj,Channel 2
+Oboe,Oboe-8.wav,7,G:maj,Channel 2
+Oboe,Oboe-8.wav,8,A#:maj,Channel 2
+Oboe,Oboe-8.wav,9,C#:maj,Channel 2
+Oboe,Oboe-9.wav,0,C#:maj,Channel 1
+Oboe,Oboe-9.wav,1,D#:maj,Channel 1
+Oboe,Oboe-9.wav,2,C:min,Channel 1
+Oboe,Oboe-9.wav,3,F:maj,Channel 1
+Oboe,Oboe-9.wav,4,A#:maj,Channel 1
+Oboe,Oboe-9.wav,5,A:maj,Channel 1
+Oboe,Oboe-9.wav,6,A:maj,Channel 1
+Oboe,Oboe-9.wav,7,A#:min,Channel 1
+Oboe,Oboe-9.wav,8,A#:maj,Channel 1
+Oboe,Oboe-9.wav,9,F:maj,Channel 1
+Oboe,Oboe-9.wav,10,C:min,Channel 1
+Oboe,Oboe-9.wav,0,C#:maj,Channel 2
+Oboe,Oboe-9.wav,1,D#:maj,Channel 2
+Oboe,Oboe-9.wav,2,C:min,Channel 2
+Oboe,Oboe-9.wav,3,F:maj,Channel 2
+Oboe,Oboe-9.wav,4,A#:maj,Channel 2
+Oboe,Oboe-9.wav,5,A:maj,Channel 2
+Oboe,Oboe-9.wav,6,A:maj,Channel 2
+Oboe,Oboe-9.wav,7,A#:min,Channel 2
+Oboe,Oboe-9.wav,8,A#:maj,Channel 2
+Oboe,Oboe-9.wav,9,F:min,Channel 2
+Oboe,Oboe-9.wav,10,C:min,Channel 2
+Oboe,Oboe-10.wav,0,C#:min,Channel 1
+Oboe,Oboe-10.wav,1,C#:min,Channel 1
+Oboe,Oboe-10.wav,2,F#:min,Channel 1
+Oboe,Oboe-10.wav,3,E:maj,Channel 1
+Oboe,Oboe-10.wav,4,A#:maj,Channel 1
+Oboe,Oboe-10.wav,5,D:maj,Channel 1
+Oboe,Oboe-10.wav,6,G#:maj,Channel 1
+Oboe,Oboe-10.wav,7,C#:min,Channel 1
+Oboe,Oboe-10.wav,8,G:maj,Channel 1
+Oboe,Oboe-10.wav,9,E:min,Channel 1
+Oboe,Oboe-10.wav,10,B:min,Channel 1
+Oboe,Oboe-10.wav,0,E:maj,Channel 2
+Oboe,Oboe-10.wav,1,A:maj,Channel 2
+Oboe,Oboe-10.wav,2,F#:min,Channel 2
+Oboe,Oboe-10.wav,3,C#:min,Channel 2
+Oboe,Oboe-10.wav,4,A#:maj,Channel 2
+Oboe,Oboe-10.wav,5,D:maj,Channel 2
+Oboe,Oboe-10.wav,6,G#:maj,Channel 2
+Oboe,Oboe-10.wav,7,A:maj,Channel 2
+Oboe,Oboe-10.wav,8,G:maj,Channel 2
+Oboe,Oboe-10.wav,9,E:min,Channel 2
+Oboe,Oboe-10.wav,10,G:maj,Channel 2
+Oboe,Oboe-11.wav,0,C#:min,Channel 1
+Oboe,Oboe-11.wav,1,C#:min,Channel 1
+Oboe,Oboe-11.wav,2,D:min,Channel 1
+Oboe,Oboe-11.wav,3,D:min,Channel 1
+Oboe,Oboe-11.wav,4,C:maj,Channel 1
+Oboe,Oboe-11.wav,5,F:maj,Channel 1
+Oboe,Oboe-11.wav,6,C:maj,Channel 1
+Oboe,Oboe-11.wav,7,C:maj,Channel 1
+Oboe,Oboe-11.wav,8,B:min,Channel 1
+Oboe,Oboe-11.wav,9,G#:maj,Channel 1
+Oboe,Oboe-11.wav,10,C:min,Channel 1
+Oboe,Oboe-11.wav,0,C#:min,Channel 2
+Oboe,Oboe-11.wav,1,C#:min,Channel 2
+Oboe,Oboe-11.wav,2,D:min,Channel 2
+Oboe,Oboe-11.wav,3,D:min,Channel 2
+Oboe,Oboe-11.wav,4,C:maj,Channel 2
+Oboe,Oboe-11.wav,5,D:min,Channel 2
+Oboe,Oboe-11.wav,6,C:maj,Channel 2
+Oboe,Oboe-11.wav,7,C:maj,Channel 2
+Oboe,Oboe-11.wav,8,B:min,Channel 2
+Oboe,Oboe-11.wav,9,B:min,Channel 2
+Oboe,Oboe-11.wav,10,B:min,Channel 2
